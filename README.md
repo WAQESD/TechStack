@@ -8,7 +8,7 @@
 
 * 현재는 채용공고를 올린쪽이 등록한 기술스택만 Count하고 있지만 프로젝트가 진행되면 자격조건과 우대사항에 있는 Text에서 회사가 중요시하는 기술스택이나 키워드를 Count하고 직무별로 통계를 내는것이 목표.
 
-![](img/Programmers_2.png)
+![](img/Programmers_2.PNG)
 
 ## Rocketpunch
 
