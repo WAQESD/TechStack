@@ -1,0 +1,1668 @@
+,0
+WebRTC/Websocket,3
+"JavaScript, TypeScript",4
+canvas,3
+webaudio,2
+Node.js,374
+HTML5,167
+CSS,150
+React,366
+Redux,53
+react-native,82
+Android,254
+iOS,234
+Javascript(ES6+),11
+Vue.js,118
+CSS3,93
+jQuery,141
+Front-end,393
+webpack,31
+quasar-framework,2
+Cordova,5
+electron,2
+Bulma,2
+Bootstrap,44
+Git,323
+vuex,6
+aws,104
+devops,31
+CI/CD,28
+Docker,82
+Amazon AWS,404
+서버관리,152
+GitHub,216
+Kubernetes,37
+docker-swarm,2
+Python,356
+NLU,3
+STT,4
+tts,3
+음성인식인공지능(AI),3
+JavaScript,521
+Express,17
+Back-end,445
+NoSQL,43
+Kotlin,95
+RxJava,19
+aac,2
+MVVM,31
+Android Studio,4
+Java,398
+MySQL,355
+풀스택개발,201
+Kafka,18
+Google BigQuery,6
+IntelliJ IDEA,2
+spring-boot,22
+JWT-Token,2
+OAuth 2.0,2
+Go,23
+DID,2
+블록체인,9
+Linux,65
+JSP,47
+TypeScript,139
+Redis,54
+Fullstack Development,4
+blockchain,14
+비트코인,4
+bitcoin,3
+이더리움,5
+ethereum,6
+스마트컨트랙트,2
+Smartcontract,2
+blockchain wallet,2
+트레이딩,4
+알고리즘트레이딩,3
+시스템트레이딩,4
+핀테크,5
+가상화폐,4
+암호화폐,4
+unity,6
+Unity 3D,15
+클라이언트 개발,6
+모바일게임개발,3
+안드로이드 앱개발,38
+ios 앱개발,66
+어플리케이션 개발,18
+Flutter,38
+native app 개발,24
+아이폰개발자,27
+모바일앱개발,57
+Android앱개발,26
+PostgreSQL,45
+백엔드,38
+백엔드 개발,21
+spring-framework,55
+Spring,73
+코틀린,19
+MariaDB,31
+Solr,3
+ReactNative,41
+Meteor,3
+MongoDB,93
+CoffeeScript,2
+Django,80
+소프트웨어아키텍처,25
+nltk,4
+Pandas,8
+graphql,24
+scikit-learn,7
+PyTorch,44
+Machine Learning,51
+Deep Learning (딥러닝),16
+ML/DeepLearning,6
+Oracle DB,2
+REST API,58
+pyhon,2
+웹 프론트엔드 개발(HTML5/CSS3/JavaScript/Vue.js),38
+웹서비스,5
+프론트엔드 개발,21
+프론트엔드개발자,14
+프론트엔드,17
+웹프론트엔드 개발,7
+웹개발,15
+Laravel,19
+html/css,6
+php/laravel,2
+VueJs,5
+React.js,93
+react-native 앱 개발,7
+backend,12
+machine-learning,32
+기계학습,20
+artificial-intelligence,25
+computer-vision,25
+Object Classification,5
+인공지능,39
+Semantic Segmentation,2
+Image retrieval,1
+object-detection,10
+RESTful-api,64
+KoaJS,1
+Google Cloud Platform (GCP),18
+HTML&CSS3,7
+Swift,98
+Mobile Applications,9
+es6,11
+React hooks,3
+Next.js,19
+three.js,1
+webgl,9
+REST,8
+Azure,19
+Alibaba cloud,1
+Travis CI,3
+azure pipelines,1
+Jenkins,21
+spinnaker,1
+istio,1
+D3.js,3
+ssr,2
+Styled-components,12
+Data Science,33
+데이터사이언스,23
+빅데이터,25
+data-warehousing,1
+real-time streaming processing,1
+데이터,6
+통계학,9
+R데이터분석,4
+데이터마이닝,15
+빅데이터 마이닝,11
+R 통계,5
+빅데이터 엔지니어,4
+빅데이터 분석/인프라/가시화,8
+data analyst,5
+데이터 엔지니어,4
+Data Modeling,12
+Data Engineering,7
+R,15
+data-analysis,17
+Electron.js,2
+WebSocket,10
+Socket.IO,2
+Redux-saga,12
+Jest,9
+storybook,12
+lerna,1
+Immer,3
+"백엔드 기술 Java, Spring, Node.js, MySQL",15
+Swift 개발 경험자,25
+RxSwift,29
+Objective-C,34
+iPhone,26
+아이폰,21
+TensorFlow,56
+컴퓨터공학,3
+컴퓨터비전,11
+Machine Learning (머신러닝),7
+소프트웨어개발,6
+Django REST framework,9
+deep-learning,46
+machine-vision,1
+TensorRT,1
+CUDA,3
+rdbms,25
+TDD,17
+gpgpu,1
+angular,20
+NestJs,11
+Full-stack Engineer,6
+qa,11
+테스트엔지니어,1
+QA 테스터,16
+서버개발자,18
+이커머스,8
+ai,23
+백엔드개발,3
+머신러닝,46
+파이썬개발자,1
+데이터엔지니어,6
+Mongoose,2
+webpack & babel,2
+PHP,140
+nodejs,7
+Elasticsearch,35
+AWS Elastic Beanstalk,5
+Clickhouse,2
+Airflow,5
+산업제어망데이터,1
+AI(인공지능),13
+데이터 모델링,2
+DBMS 지식보유,1
+SQL,28
+Express JS,1
+pm2,1
+site scrapping,1
+정보보안,7
+크롤링,3
+HTML,96
+전자정부프레임워크,2
+"Spring-Boot, JPA",2
+디지털광고,4
+디지털마케팅,4
+온라인광고,5
+온라인마케팅,4
+웹퍼블리싱,6
+PM,2
+UI/UX,9
+모바일앱,3
+플랫폼,2
+Firebase,19
+클라우드,6
+GitLab,7
+RabbitMQ,5
+Flask,19
+os,5
+Database,17
+RDB/SQL,2
+matplotlib,1
+seaborn,1
+esnext,2
+emotion,4
+webrtc,3
+Dart,5
+"HTML5, CSS3, jQuery, javascript",14
+Javascript(ES6),9
+Three.js,4
+spa,7
+.NET,14
+web-api,1
+Visual Studio,4
+mvp,14
+viper,2
+Xcode,20
+파이썬,6
+Python Django,8
+Celery,6
+django-celery,2
+graphene-django,1
+Nextjs,5
+react-apollo,1
+full-stack development,8
+Asana,1
+Ruby On Rails,14
+SpringBoot,32
+스칼라,1
+Scala,9
+Big Data,22
+C#,33
+유니티,3
+앱개발자,4
+Apache,16
+createjs,1
+AngularJS,45
+WordPress,3
+Meteor.js,1
+penetration-testing,1
+information-security,1
+web-security,1
+app-security,1
+취약점 진단,1
+취약점 분석,3
+취약점점검,1
+App 취약점 진단,1
+모의해킹,2
+소프트웨어 취약점,3
+웹 보안,3
+개인정보보호,3
+network-security,1
+네트워크보안,3
+ISO 27001,2
+ISMS,5
+클라우드 보안,3
+Node JS,25
+Amazon DynamoDB,6
+security,3
+Slack,9
+Flutter & Dart,8
+mvc,6
+mvc/mvvm,1
+Docker/Kubernetes,11
+AAC ViewModel,3
+dagger,1
+jetpack,4
+devops engineer,4
+monitoring,1
+AWS Data Pipeline,2
+cloudformation,1
+container,3
+Serverless,6
+Terraform,16
+golang,17
+MSA,21
+iac,1
+CISSP,3
+CISA,3
+CPPG,1
+정보보호관리체계,2
+보안,2
+소프트웨어테스트,4
+제품 테스트,2
+사용성테스트,3
+테스터,2
+testing,3
+test-cases,1
+quality-assurance,5
+QA/QC,7
+품질관리,1
+shell-script,5
+AWS WAF,1
+utm,1
+waf,1
+정보보호,3
+보안솔루션,2
+클라우드 인프라,3
+컴플라이언스,1
+데이터 레이크,1
+gitflow,2
+tableau,3
+superset,2
+powerbi,2
+Redash,2
+QuickSight,2
+데이터 파이프라인,1
+power bi,1
+rdb,5
+ORM,8
+JPA,15
+Hibernate,4
+ml,3
+NLP,17
+딥러닝,40
+자연어처리,4
+scss,8
+media-query,1
+promise,1
+future,1
+reactive,2
+ReactiveX,2
+rxcocoa,2
+RxFlow,1
+FlexLayout,2
+alamofire,6
+Sentry,4
+Spring Framework 5,1
+SpringBoot2,2
+WebFlux,2
+AWS Container,1
+OpenTracing,1
+Jaeger,1
+zipkin,1
+Elastic APM,1
+clustering,1
+Vitess,1
+Apache Spark,3
+gnu,1
+CentOS,2
+Cluster Orchestration,1
+Python(파이썬),3
+"Cordova,ionic 하이브리드 앱 개발",1
+C,45
+C++,79
+OpenCV,5
+Open GL,9
+화면설계,1
+robotics,10
+임베디드 SW 개발,1
+SLAM,6
+영상처리,10
+Github Actions,1
+GCP,13
+PixiJS,1
+flex design system components,1
+babel,3
+keras,10
+doker,1
+elastic,3
+grafana,2
+수학,1
+선형대수학,1
+Rust,8
+SMART CONTRACT,2
+Ethereum Client Development,1
+nginx,24
+containers,2
+storage,2
+openvpn,2
+vercel,4
+서버개발,4
+응용프로그래머,3
+안드로이드,24
+GraphQL API,4
+Amazon EKS,3
+domain-driven-design,1
+AWS ECS,7
+Agile Scrum,3
+머신러닝 NLP,1
+ML/DL,1
+seo,6
+Java Spring,2
+JAVA Restful API,2
+gis,7
+백엔드개발자,36
+ab-testing,1
+tpm,1
+po,2
+frontend-developer,3
+네트워크,5
+"POS, 네트워크구축·운영·관리",1
+네트워크관리,1
+vpn,1
+firewall,1
+SSL,1
+ccna,1
+CCNP,1
+CCIE,1
+보안감사,1
+디지털포렌식,1
+보안컨설팅,1
+WPF,2
+XAML,1
+HTTP,12
+JIRA,21
+Confluence,9
+Hadoop,8
+Data Lake,1
+data-warehouse,3
+spark,15
+"Hadoop, Hive, Spark",1
+AWS Dynamodb,4
+Business Analytics,1
+AWS Cloud,2
+neural-network,2
+modern php,2
+Laravel framwork,5
+Amazon ElasticBeanstalk,3
+s3,5
+테스트 자동화,3
+API,27
+hp-uft,1
+soapui,1
+JMeter,2
+loadrunner,1
+Ajax,15
+테스트자동화,3
+성능테스트,1
+Java/JSP,8
+MSoffice,1
+웹애플리케이션,2
+aws 서버관리,1
+Java 기반 웹서비스 개발,1
+Context API,2
+restful,10
+git-flow,1
+drone,9
+ros,7
+ros2,1
+SAP ERP,4
+SAP SD,2
+IT 컨설턴트,2
+SAP LE,1
+sap,1
+erp,1
+vue,26
+SPA (single Page Application),5
+mybatis,7
+fullstack,2
+frontend,6
+Spring Boot 2,3
+querydsl,2
+JPA:hibernate,3
+퍼블리셔,2
+웹 퍼블리셔,2
+웹 퍼블리싱,2
+영카트5,1
+backend developer,16
+nuxt.js,10
+framework,2
+aws-ec2,5
+mq,1
+rds,4
+swarm,1
+퍼블리싱,3
+xml/json,1
+Maven,1
+spring-cloud,3
+서버,2
+image-processing,19
+data,6
+axios,4
+lottie,1
+React-Testing-Library,1
+sequelize,6
+jwt,1
+Mocha,5
+ExpressJS,6
+React/React Native,9
+Cross platform App Developement,1
+react natvie,1
+lambda,4
+AWS Lambda,9
+웹프론트엔드,4
+웹프로그래머,4
+자바스크립트,3
+윈도우즈프로그래밍,1
+web-frontend,8
+개발자,8
+웹백엔드,4
+Front-end framework,1
+Web Front-end,4
+데이터 엔지니어링,2
+웹 스크래핑,2
+웹 크롤링,2
+웹크롤링,1
+Dapp(solidity),1
+스마트 컨트랙트,1
+차익거래,1
+web3.js,2
+uniswap,1
+Aave,1
+Truffle-suite,2
+Web Server,1
+load-balancer,1
+기획,1
+서비스기획,1
+JVM,1
+percona,1
+AWS S3/Cloudfront,1
+HTML/CSS/Javascript(ES6),1
+boost-asio,1
+ec2,3
+AuroraDB,2
+Kibana,8
+paas,1
+iaas,1
+프로젝트PM,2
+아키텍쳐설계,1
+Web Service,5
+데이터분석,18
+Data Visualizing,3
+서버API,7
+view,2
+react-router,2
+Sass,8
+redux-thunk,2
+e2e-testing,3
+web-api-testing,1
+docker-compose,1
+"Tensorflow, Keras 등 머신러닝/딥러닝",9
+서버구축,1
+데이터모델링,1
+UNIX,4
+erd,2
+RDBMS에 대한 이해,5
+Object-C,1
+Less,3
+web-applications,4
+데브옵스,2
+REST/GraphQL,1
+client-applications,1
+infrastructure,2
+client,2
+인프라,4
+Amazon Amplify,2
+Amazon Cognito,2
+빅데이터분석,3
+데이터시각화,2
+Ansible,5
+php7,3
+CodeIgniter,4
+software-testing,3
+ISTQB,3
+Scrum Master,1
+iot,6
+mqtt,3
+사물인터넷,4
+스마트팩토리,1
+임베디드,6
+안드로이드개발자,16
+db,4
+웹 백엔드 개발(Java/Spring/Oracle/MySQL),3
+개발,9
+설계,1
+UI/UX 설계,1
+서비스설계,1
+모바일서비스설계,1
+오픈 API 설계/개발 경험,1
+알고리즘,11
+알고리즘 개발,1
+O2O service,2
+모바일O2O,1
+UX/UI,1
+Java/Kotlin 혹은 Swift,10
+안드로이드개발,15
+안드로이드 개발,10
+apollo,1
+모바일 앱 개발,1
+RDBMS(oracle),2
+Amazon EC2,2
+Amazon S3,3
+Datamining,9
+bigdata,4
+Ruby,13
+web,8
+reactjs,3
+INFRA,2
+GA,1
+Appsflyer,1
+Amplitude,1
+ELK,6
+크로스브라우징,4
+반응형웹,3
+iscjp,1
+mcdba,1
+MCSE,1
+google gcp,2
+messaging,1
+server-side development,1
+micro service architecture,1
+Ionic,3
+Apple ARKit,1
+AR/VR,4
+Realm,3
+Eureka,1
+디자인패턴,1
+LayoutKit,1
+3D mapping,1
+computer-graphics,3
+CNN,3
+3D CNN,1
+3D,3
+Retool(리툴),1
+Elastic stack,1
+Sass/scss,6
+Google Chrome Extension,4
+NumPy,4
+jupyter,1
+apache-zeppelin,1
+jupyter notebook,3
+SQLAlchemy,1
+pytest,2
+Yona,1
+Full-stack Developer,1
+리액트,3
+Java Spring Framework,1
+하이브리드앱,2
+하이브리드웹앱,2
+프론트개발,2
+풀스택,2
+Naver Cloud,2
+web-publishing,2
+"포토샵, HTML, CSS",1
+반응형 웹,2
+모바일디자인,2
+webdesign,1
+publishing,2
+"웹퍼블리싱(jQuery, CSS, HTML, AngularJS, VueJS)",1
+Phyton,1
+ci,3
+nest.js,2
+typeORM,4
+puppeteer,1
+cheerio,1
+monorepo,2
+cypress,4
+capacitor,1
+HybridApp,1
+es2015,2
+unit-testing,1
+Back-office-admin,1
+페어프로그래밍,1
+코드리뷰,1
+ui개발,1
+Component,1
+es7,1
+load-balancing,1
+live-streaming,1
+mssql,9
+RXKotlin,6
+Clean Architecture,4
+Notion,2
+react-redux,2
+서버보안,1
+영상 처리,1
+code refactoring,1
+SpringFramework,3
+socket,1
+Server Side Rendering,1
+Bitbucket,9
+Mobile Service,3
+cocoapods,10
+Gradle,4
+Phython,1
+web-frameworks,2
+Rails,6
+앱api,1
+LogDNA,1
+New Relic,1
+커뮤니케이션과 협업,1
+Bitrise,1
+RxAndroid,5
+Google Maps,1
+Bluetooth,1
+memory-leaks,1
+thread,1
+의사소통,2
+pyhton,1
+프론트엔드 개발( HTML/CSS3/Javascript),1
+클로저,1
+Stackoverflow,1
+Test Automation,1
+deploy,1
+ProgressiveWebApp(PWA),4
+Responsive web,3
+CROSS BROWSING,3
+golog,1
+Solidity,4
+image-recognition,5
+딥러닝이미지분석,7
+스마트농업,1
+스마트팜,1
+Smart Farm,1
+AWS IoT,2
+JSON,5
+디지털콘텐츠,1
+zeplin,8
+iOS/AOS,2
+cache,6
+Data structure,8
+rx-java,1
+AWS Elastic Cache(Redis),3
+gatsby,1
+rxjs,5
+autolayout,6
+snapkit,4
+xctest,1
+fastlane,5
+nimble,1
+OpenSource,3
+Blockchain Developers,2
+REACTORKIT,3
+data-visualization,3
+reporting-services,1
+business-intelligence,1
+Amazon Kinesis,1
+Amazon EMR,2
+BigData Platform,2
+weblog,1
+hadoop-ecosystem,3
+datalake,1
+matrix-factorization,2
+data-structures,2
+agile,4
+analytics,3
+amazon-elb,1
+recommendation,2
+OAuth,3
+reactive-programming,4
+Google Analytics,6
+java framework,2
+OpenGL ES,1
+GLSL,1
+Firestore,2
+diango,1
+ios-sdk,3
+Neo4j,3
+ArangoDB,2
+Amazon Neptune,2
+message-queue,3
+soa,1
+오픈소스,2
+빌드자동화,2
+지속적통합,1
+android플랫폼,1
+Haskell,3
+Travis,1
+saas,1
+responsive-design,1
+beacon,1
+2D/3D Image Processing,1
+모바일딥러닝,1
+css/scss,1
+SVN,4
+C C++,12
+영상처리 소프트웨어 알고리즘,1
+DCNN,1
+web/mobile application 개발,1
+AWS EMR,2
+angular 2,1
+Liquibase,1
+Selenium,3
+npm,1
+angular2,2
+hiberate,1
+DL/ML,1
+풀스택개발자,4
+모바일서비스,1
+구글플레이,1
+Android Developers,1
+google-play-store,2
+iOS Developer,1
+mobile app developer,1
+Sping framework,1
+KSQL,1
+Stream,1
+hive,1
+Storm,1
+sqoop,1
+HBase,1
+p2p,1
+코인개발,1
+지갑 개발,1
+dapp,1
+tracker,1
+torrent,1
+mockito,1
+JUnit,2
+hyperledger,1
+암호화화폐,1
+cryptocurrencyinsight,1
+알트코인,1
+자바개발자,1
+platform,3
+Blockchain business,1
+cryptography,1
+blockchain community,1
+DBMS(MS-SQL),2
+packet-sniffers,1
+Recoil,1
+MobX,7
+머신비전,1
+머신비전 개발,1
+데이터 분석 / 딥러닝 모델 개발,3
+씨피피,1
+기구설계,1
+solidworks,2
+Swift3.0,4
+Service Platform Software Architecture,1
+circle,1
+SPA(vue),1
+RDBMS MySQL,1
+Flux,2
+Cassandra,5
+MessageQueues,1
+"웹백엔드(Struts, LiveFramework, iBatis, WebSphere, Oracle)",1
+기술영업,1
+IT기술영업,1
+Assembly,1
+ASP.NET MVC,2
+ms-sql,2
+이미지프로세싱,1
+photo retouching,1
+Amazon RDS,4
+Amazon Aurora,2
+text-mining,5
+Tensorflow/Keras,1
+ocr,2
+konlpy,1
+ASP.NET Core,2
+csharp,3
+Ubuntu,2
+bamboo,1
+웹개발자,5
+software-quality,2
+bem,2
+JavaScript/nodeJS,3
+eCommerce,9
+ar,3
+증강현실,2
+클라이언트 프로그래머,1
+Unity (2D),1
+유니티3D,1
+벡엔드 개발,1
+CircleCI,10
+Datadog,1
+feature engineering,1
+Model Serving,1
+R&D,1
+데이터트래킹,1
+그로스해킹,1
+통계분석,3
+asp-net,1
+RabbigMQ,1
+fastapi,1
+개발팀장,2
+"defi, blockchain",1
+Wallet&스마트컨트랙,1
+Amazon RDS for Aurora,1
+fcm,2
+css-in-js,1
+SwiftUI,1
+마이크로서비스,1
+state,1
+CRM,1
+IT/인공지능,1
+스타일테크,1
+3d-reconstruction,1
+텐서플로우,4
+DeepLearning,4
+deep learing,1
+pci-dss,1
+asp,2
+VBA,1
+windows-server,1
+ms azure,2
+PayPal,1
+Adobe prmiere,1
+Adobe After Effect,2
+Untiy webgl,1
+Google ARCore,1
+Maria DB,4
+aws cloudfront,3
+3GPP,1
+Ieee802.11,1
+Wireless Communication,1
+Wireless LAN,1
+5G Network,1
+5G NR,1
+mpeg,1
+codec,1
+video-codecs,1
+widget,1
+매니지먼트,1
+software-engineering,4
+full stack,4
+Microservices architecture,7
+UI/UX디자인,5
+Handlebars.js,1
+Eclipse,2
+scm,1
+Clinet-server,1
+c#WPF,1
+스프링클라우드,1
+sequelize.js,2
+CI/CD Automation,1
+홈페이지제작,2
+쇼핑몰,4
+온라인쇼핑,1
+yarn,1
+sequelize-hierarchy,1
+Spring 3.x,1
+퍼포먼스마케팅,1
+poc,1
+어플리케이션아키텍처,1
+클라우드 서비스,1
+Windows,4
+MFC,4
+architecture,1
+migration,1
+전산관리,2
+통계,1
+cmos,1
+의료기기개발,1
+dba,5
+PACS,4
+amazon,1
+시스템엔지니어(SE),1
+포토샵,1
+엑셀,1
+Graphql/Apollo,3
+product engineering,1
+프런트엔드 개발,1
+DW,2
+고객커뮤니케이션,2
+프로젝트 관리,2
+요구사항 분석,1
+제안서,1
+IT Project Management,1
+project lead,1
+search,1
+Lucene,1
+hdfs,1
+c++17,1
+eosio,1
+Fastify,1
+express.js,2
+Moya,2
+SageMaker,1
+cd,1
+Infrastructure-as-code,1
+Element UI,1
+eslint,2
+lint,1
+aws-s3,2
+ami,1
+subscriptions,1
+소프트웨어,10
+자율주행,13
+mobile,2
+반응형,1
+Adobe Illustrator,3
+Adobe Photoshop,3
+Sketch,6
+figma,3
+ASP.NET,8
+앱,1
+하이브리드앱개발자,3
+SAS,2
+face-detection,1
+opencl,1
+영상처리 영상인식 Deep Learning Neural Network 패턴인식 TensorFlow Theano,2
+gan,3
+백앤드 개발,1
+드론,8
+flight control,6
+제어 로봇,10
+로봇제어,10
+소프트웨어 개발,8
+메카트로닉스,10
+embedded,6
+slam-algorithm,5
+sensor-fusion,5
+로봇자율주행,7
+함수형 프로그래밍,1
+연구개발,1
+디지털 미디어 광고,1
+타겟팅 광고,1
+플랫폼서비스운영,1
+플랫폼 서비스 구축,1
+서비스개발,1
+Amazon Redshift,2
+Adobe Premiere pro,1
+Adobe InDesign,1
+웹디자인,2
+프론트엔드 및 개발 (워드프레스 기반),1
+워드프레스,1
+워드프레스 디자인,1
+영상,1
+영상편집,1
+영상촬영,1
+프리미어,1
+영상기획,1
+PD,1
+fp,1
+e-commerce,3
+Elastic Search,1
+Azure Machine Learning,1
+collaborative-filtering,1
+ramda.js,2
+AWS RDS(with MySQL),3
+AWS Redshift,2
+Tomcat,3
+imgix,2
+Algolia,2
+semaphoreci,2
+PeriscopeData,2
+SQLite,2
+리액트네이티브,4
+웹개발/JSP,1
+"웹퍼블리싱(HTML,CSS,JAVASCRIPT(JQUERY))",1
+UX/UI Design,2
+AWS Cognito,1
+- AWS Elasticache for Redis,1
+엔지니어,1
+Engineer,1
+Software,1
+"Python, Tensorflow, pytorch",8
+caffe,2
+torch,1
+People tracking,1
+Unreal,3
+PCB,2
+PCB Design,1
+Pcb artwork,1
+circuit design,1
+atmega,1
+avr,1
+MATLAB,3
+EAGLE,1
+orcad,1
+pspice,1
+CUDA 분산기술,1
+3d-modeling,1
+병렬컴퓨터,1
+ComputerVision,2
+camera,1
+speech-synthesis,2
+text-to-speech,1
+Postman,1
+appium,1
+QA 엔지니어,1
+Atlassian JIRA,1
+GPS,1
+퍼플리싱,1
+Oracle,3
+reporting,1
+산업공학,1
+반도체 공정,1
+자동화,2
+pi,1
+디스플레이,1
+제조생산공정,1
+제조,1
+Product Roadmapping,1
+반도체장비,1
+Product Manager,1
+프로덕트매니저,1
+Product owner,2
+CTO,3
+웹 개발,1
+python flask,2
+mathematics,1
+Websocket/Socket.io,1
+PG/VAN,1
+hooks,1
+prototype,1
+IDC,2
+restful-web-services,1
+RESTful service,1
+DBMS(MS-SQL MySQL),5
+dbms,2
+server,4
+AWS Elastic Load Balancing (ELB),2
+System Engineer,2
+리눅스,4
+의료기기,1
+wiki,2
+analysis,1
+의공학,2
+의료영상,2
+Medical Image Processing,1
+statistical-analysis,1
+image-segmentation,1
+classification,1
+generator,1
+detection,1
+window,1
+윈도우,1
+뇌공학,1
+뇌영상,1
+의료데이터 분석,2
+의료데이터분석,1
+neural engineering,1
+algorithm,3
+network,1
+데이터베이스,4
+computer-science,2
+dicom,1
+hl7,1
+소프트웨어엔지니어,1
+csts,1
+fiddler,1
+아키텍쳐,2
+AB 테스팅,1
+데이터 보존 정책 수립,1
+etl,3
+firmware,2
+servlet,2
+Web 개발자,1
+2checkout,1
+NoSQL/RDBMS,1
+"Cloud: AWS EC2, RDS, CloudWatch",1
+expo,1
+blender,1
+3D 모델링,1
+system-architecture,1
+cdn,1
+위치기반서비스,1
+경력직,1
+직무경력서,1
+신입사원,1
+경력같은신입,1
+CI/CD 및 자동화 개발,2
+DRF Node.js,1
+augmented-reality,1
+native,2
+server architecture,1
+business-logic,2
+cord review,1
+가상현실,1
+windows-application,2
+펌웨어개발,3
+Firmware 개발자,1
+Semantic UI,1
+microservices,2
+Microsoft Azure,3
+OpenShift,1
+apache-kafka,2
+apache-confluent,1
+apollo-client,1
+웹퍼블리셔,1
+공간정보,2
+부동산,2
+도시계획,2
+prisma2,2
+k8s,3
+ionic-framework,2
+델파이,1
+Delphi,1
+Win api,1
+OOP,6
+C언어,1
+윈도우 프로그래밍,1
+솔루션개발,1
+cross-platform,2
+prisma,1
+"AWS S3, EC2, RDS",1
+프론트,3
+grid,1
+FLEX,1
+디자인,1
+디자인시스템,1
+반응형웹디자인,1
+dagger2,1
+retrofit,1
+Room,1
+Crashlytics,2
+오픈소스 라이브러리,2
+Aws Lambda@Edge,1
+kubeflow,1
+torchserve,1
+styled-component,2
+crawling,1
+data-cleansing,1
+vue.js,6
+Google Apps,3
+Trello,3
+Redmine,3
+fluentd,3
+Papertrail,3
+Amazon CloudWatch,4
+amazon-cloudformation,3
+WebStorm,4
+vscode,4
+GitHub Pages,3
+gitbook,3
+Google Drive,3
+chromeless,3
+apex,3
+strongloop,3
+loopback,3
+akka,3
+Apache HTTP Server,3
+"Vue.js, React.js, RESTful API, Database, SQL, Next.JS, Swift, Java, Kotlin, React Native, Zeplin, Slack, Trello",3
+Flutter Dart Flutter & Dart Slack Vue.js Git JavaScript Trello Node.js,2
+Xamarin,2
+cs,3
+map,2
+moblie,1
+livecommerce,1
+라이브 스트리밍,1
+동영상 스트리밍,1
+Vitess(MySql),1
+Data Query,1
+Kops,1
+flink,1
+Stream Data,1
+TPS Monitoring,1
+programming-languages,1
+ocaml,1
+fsharp,1
+concurrent-programming,1
+distributed-system,1
+postresql,1
+bioinformatics,1
+ecmascript-6,3
+bundler,1
+Visual C++,2
+Qt,5
+query-tuning,1
+스키마 관리,1
+"SQL, NoSQL, Elastic Search",1
+RESTfull,1
+Cloud Orchestration,1
+OCS EMR,2
+의료,2
+헬스케어,2
+데이터마이그레이션,1
+기술지원,2
+App push,1
+chatbot,2
+Aliyun cloud,2
+IoT Device,3
+Raspberry Pi,2
+C/C++,6
+하드웨어,1
+MCU,1
+회로설계,1
+freertos,2
+Arduino,2
+embedded-c,1
+ddd,1
+thymeleaf,1
+ASP.NET MVC 5,1
+RIBs,2
+Stash,1
+보안기획,1
+보안개발,1
+Agile Methodologies,1
+Data analysis,5
+Spring MVC,1
+스타트업,1
+vault,2
+자료구조,2
+컴퓨터구조,2
+tendermint,2
+Fabric,2
+rpc,2
+ReinforcementLeaning,1
+reinforcement-learning,1
+Software developement,1
+강화학습,1
+Visual SLAM,5
+localization,4
+Cosmos SDK,1
+kakaotalk-api,1
+MSSQL/MySQL/MS-Win Server,1
+pointcloud data,1
+Pointcloud Library,1
+vr,1
+센서융합,1
+calibration,1
+lidar,3
+#HTML5,1
+#CSS3,1
+#웹표준,1
+#컨텐츠관리,1
+#php,1
+#MySQL,1
+#AJAX,1
+#웹프로그래머,1
+Serverless Architecture,1
+SDK,4
+Android SDK,2
+B2B플랫폼,1
+패션,1
+Fraud Detection,1
+아두이노,1
+XD,1
+Mobile Edge Computing,1
+Network Packet Broker,1
+Data analytics,1
+fulfillment,1
+기계공학,1
+"FEM, 3D",1
+CFD,1
+photoshop,1
+shader,1
+YOLO,2
+jupiter,1
+gpu,1
+SW QA,1
+모바일,2
+개발 유지보수,1
+유지보수,2
+백오피스,1
+리버스 엔지니어링,1
+보안취약점,1
+Apache Tomcat,1
+Azure Storage,1
+continuous-integration,2
+continuous-delivery,2
+continuous-deployment,2
+GitOps,2
+ArgoCD,2
+js,3
+"PHP,RDB",1
+sa,1
+swagger,1
+Lalavel,1
+rtos,2
+데이터사이언티스트,1
+product-management,1
+프로젝트 기획,1
+CTI,1
+grpc,2
+개발언어,2
+javaspring,2
+데이터관리,1
+sql-query,1
+로봇 알고리즘,1
+retrofit2,4
+google-guice,1
+Java8,1
+android-recyclerview,1
+WCF,1
+IIS,1
+tcp-ip,1
+lighttpd,1
+autoscaling,1
+replication,1
+파이어베이스,1
+Entity Framework,1
+webos,1
+dagger-2,1
+Product planning,1
+Agile Product Management,1
+서비스 기획,2
+openlayers,1
+cesium,1
+gdal,3
+postgis,2
+geoserver,1
+PDAL,1
+fbx,1
+animation,1
+v-ray,1
+render,1
+renderer,1
+rigid-bodies,2
+simulation,2
+CMake,2
+OS X,2
+collision,1
+CatcI,1
+Nagios,1
+zabbix,1
+3d-graphics,1
+data-management,1
+OkHttp3,2
+Ubuntu-18.04,1
+"HTML5, CSS, SASS",1
+Grunt,2
+gulp,2
+Browserify,2
+Backbone.js,2
+WebKit,1
+Casandra,1
+cloud,4
+"프론트엔드 개발(ReactJS, VueJS)",1
+contents,1
+dalvik,1
+컴파일러,1
+compiler,1
+llvm,1
+dockerizing,1
+Custom UI Contral,1
+Rxjava2,1
+KOIN,1
+data-binding,1
+XML,1
+es2016,1
+bi시스템,1
+웹서비스보안,1
+카메라제어,1
+도커,1
+쿠버네티스,1
+최적화,2
+솔루션기획,1
+고객지원,1
+고객관리,1
+산업기능요원,2
+기술컨설팅,1
+온보딩프로그램,1
+사용자/관리자 가이드 작성,1
+druid,1
+Jasmine,1
+시계열 분석,1
+ADAS,1
+LiDAR signal processing,2
+Google Cloud Build,2
+Auto ML,5
+Vanilla.js,1
+Google Kubernetes Engine,2
+Google Cloud Storage,1
+google memorystore,1
+홈페이지운영,1
+홈페이지관리,1
+플러터,1
+UI디자인,2
+Computer Vision Analyst,2
+#PHP개발자,1
+소프트웨어 엔지니어,1
+functional-programming,2
+speech-recognition,2
+음성인식,1
+Kaldi,1
+Natural Language Processing,1
+theano,1
+spacy,1
+AWS CodeDeploy,1
+병역특례,2
+병역대체,2
+database-queries,1
+swift5.0,1
+storyboard,2
+cv,1
+GUI디자인,1
+hybrid-mobile-app,1
+추천시스템,1
+dsp,2
+sound engineering,1
+fpga,1
+Network AsyncTask,1
+Layout Customizing,1
+webview,1
+iPad,1
+아이패드,1
+web crawling,2
+vert X,1
+iam,1
+Okta,1
+vpc,1
+tech lead,1
+Ubuntu Linux,1
+planning,1
+control,2
+aws cloud front,3
+Amazon Route 53,1
+Node.js Express.js,1
+Global Business Development,1
+async,1
+웹 백엔드 개발(Java/Spring/MySQL),1
+"Java Spring Boot, JPA",1
+JAVA Spring MVC,1
+AWS CloudFormation,1
+AWS CDK,1
+juce,1
+Gunicorn,1
+Firebase Firestore,1
+Firebase CloudFunctions,1
+amazon-lambda,1
+opengl-es-2.0,1
+operation,1
+greenplum,1
+elk-stack,2
+android-library,1
+ios-frameworks,1
+시스템프로그래머,2
+시스템분석,1
+빅테이터분석,1
+웹서비스 개발,1
+LAPM,1
+광고 플랫폼,1
+아키텍처 설계,1
+Web Scraping,3
+Beautilul Soup,1
+공공데이터 API,1
+Statistical Data Analysis,1
+realtime detection,1
+instance segmentation,1
+AngluarJS,1
+JetsonTx2,1
+nx,1
+cat,1
+ARM,2
+EagleCAD,1
+App design,1
+Java/Kotlin Spring Framework (Spring Boot),2
+정보처리기사,1
+qc,1
+automated-tests,2
+integration-testing,1
+javacript,2
+PyQT,1
+gui,1
+naver cloud platform,1
+금융클라우드,1
+ios-autolayout,1
+spring-data-jpa,1
+GWT,1
+SciPy,1
+EC사이트,1
+PG사 연동,1
+Kendo Grid,1
+Recommender Systems,1
+android 앱개발,1
+Android 앱,1
+Digital Healthcare Service,1
+android-wear,1
+smartwatch,1
+HTML/CSS,1
+B2C,2
+MVC framework,1
+플랫폼 개발,1
+dmp,1
+SQL Server,1
+TCP,1
+UDP,1
+금융투자,1
+자산운용,1
+펀드,1
+front-office,1
+금융it,1
+julia,1
+Graph QL,2
+aws lightsail,2
+AWS Route 53,2
+swfit 4.0,1
+WinForms,1
+C# & WPF,1
+데이터베이스 관리,1
+aws-rds,1
+얼굴인식,1
+vcs,1
+패턴인식,1
+software-architecture,1
+Cloud-Server,1
+interactive,1
+Web publisher,1
+UX디자인,1
+소프트웨어 개발 (모바일/웹),1
+앱/웹서비스 기획,1
+모바일/웹디자인,1
+echarts,1
+Visual C++ MFC,1
+"RPA, SaaS,",1
+optimization,1
+implementation,1
+deep learning accelerator,1
+renesas,1
+nvidia,1
+porting,1
+debugging,1
+software-packaging,1
+source-code,1
+software delivery,1
+logstash,1
+office,1
+space,1
+애자일,1
+"C++, MFC",1
+azure iot hub,1
+azure sphere,1
+esp,1
+영업,1
+비지니스미팅,1
+B2B영업,1
+경영,1
+xplatform,1
+Cross Platform Application (React/React Native),1
+UX/UI기획,1
+컨텐츠 기획,1
+컨텐츠편집,1
+컨텐츠관리,1
+yii2,1
+yii-framework,1
