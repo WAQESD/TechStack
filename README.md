@@ -15,3 +15,16 @@
 * https://www.rocketpunch.com/jobs 로켓펀치 채용공고 페이지는 Dynamic Web Page이기때문에 BeautifulSoup으로는 크롤링이 불가능한 상황.
 * Selenium을 사용해 크롤링 할 예정.
 
+
+
+# 2021-02-03
+
+### Rocketpunch
+
+* Selenium을 이용해 크롤링 구현.
+
+![](./img/RocketPunch_1.png)
+
+![](./img/RocketPunch_2.PNG)
+
+* 비정상적인 데이터들이 포함되어 있어 해결 필요.
