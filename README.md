@@ -23,7 +23,7 @@
 
 * Selenium을 이용해 크롤링 구현.
 
-![](./img/RocketPunch_1.png)
+![](./img/RocketPunch_1.PNG)
 
 ![](./img/RocketPunch_2.PNG)
 
