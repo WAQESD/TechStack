@@ -29,7 +29,7 @@ devops,31
 CI/CD,28
 Docker,82
 Amazon AWS,404
-ì„œë²„ê´€ë¦¬,152
+¼­¹ö°ü¸®,152
 GitHub,216
 Kubernetes,37
 docker-swarm,2
@@ -37,7 +37,7 @@ Python,356
 NLU,3
 STT,4
 tts,3
-ìŒì„±ì¸ì‹ì¸ê³µì§€ëŠ¥(AI),3
+À½¼ºÀÎ½ÄÀÎ°øÁö´É(AI),3
 JavaScript,521
 Express,17
 Back-end,445
@@ -49,7 +49,7 @@ MVVM,31
 Android Studio,4
 Java,398
 MySQL,355
-í’€ìŠ¤íƒê°œë°œ,201
+Ç®½ºÅÃ°³¹ß,201
 Kafka,18
 Google BigQuery,6
 IntelliJ IDEA,2
@@ -58,44 +58,44 @@ JWT-Token,2
 OAuth 2.0,2
 Go,23
 DID,2
-ë¸”ë¡ì²´ì¸,9
+ºí·ÏÃ¼ÀÎ,9
 Linux,65
 JSP,47
 TypeScript,139
 Redis,54
 Fullstack Development,4
 blockchain,14
-ë¹„íŠ¸ì½”ì¸,4
+ºñÆ®ÄÚÀÎ,4
 bitcoin,3
-ì´ë”ë¦¬ì›€,5
+ÀÌ´õ¸®¿ò,5
 ethereum,6
-ìŠ¤ë§ˆíŠ¸ì»¨íŠ¸ë™íŠ¸,2
+½º¸¶Æ®ÄÁÆ®·¢Æ®,2
 Smartcontract,2
 blockchain wallet,2
-íŠ¸ë ˆì´ë”©,4
-ì•Œê³ ë¦¬ì¦˜íŠ¸ë ˆì´ë”©,3
-ì‹œìŠ¤í…œíŠ¸ë ˆì´ë”©,4
-í•€í…Œí¬,5
-ê°€ìƒí™”í,4
-ì•”í˜¸í™”í,4
+Æ®·¹ÀÌµù,4
+¾Ë°í¸®ÁòÆ®·¹ÀÌµù,3
+½Ã½ºÅÛÆ®·¹ÀÌµù,4
+ÇÉÅ×Å©,5
+°¡»óÈ­Æó,4
+¾ÏÈ£È­Æó,4
 unity,6
 Unity 3D,15
-í´ë¼ì´ì–¸íŠ¸ ê°œë°œ,6
-ëª¨ë°”ì¼ê²Œì„ê°œë°œ,3
-ì•ˆë“œë¡œì´ë“œ ì•±ê°œë°œ,38
-ios ì•±ê°œë°œ,66
-ì–´í”Œë¦¬ì¼€ì´ì…˜ ê°œë°œ,18
+Å¬¶óÀÌ¾ğÆ® °³¹ß,6
+¸ğ¹ÙÀÏ°ÔÀÓ°³¹ß,3
+¾Èµå·ÎÀÌµå ¾Û°³¹ß,38
+ios ¾Û°³¹ß,66
+¾îÇÃ¸®ÄÉÀÌ¼Ç °³¹ß,18
 Flutter,38
-native app ê°œë°œ,24
-ì•„ì´í°ê°œë°œì,27
-ëª¨ë°”ì¼ì•±ê°œë°œ,57
-Androidì•±ê°œë°œ,26
+native app °³¹ß,24
+¾ÆÀÌÆù°³¹ßÀÚ,27
+¸ğ¹ÙÀÏ¾Û°³¹ß,57
+Android¾Û°³¹ß,26
 PostgreSQL,45
-ë°±ì—”ë“œ,38
-ë°±ì—”ë“œ ê°œë°œ,21
+¹é¿£µå,38
+¹é¿£µå °³¹ß,21
 spring-framework,55
 Spring,73
-ì½”í‹€ë¦°,19
+ÄÚÆ²¸°,19
 MariaDB,31
 Solr,3
 ReactNative,41
@@ -103,38 +103,38 @@ Meteor,3
 MongoDB,93
 CoffeeScript,2
 Django,80
-ì†Œí”„íŠ¸ì›¨ì–´ì•„í‚¤í…ì²˜,25
+¼ÒÇÁÆ®¿ş¾î¾ÆÅ°ÅØÃ³,25
 nltk,4
 Pandas,8
 graphql,24
 scikit-learn,7
 PyTorch,44
 Machine Learning,51
-Deep Learning (ë”¥ëŸ¬ë‹),16
+Deep Learning (µö·¯´×),16
 ML/DeepLearning,6
 Oracle DB,2
 REST API,58
 pyhon,2
-ì›¹ í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œ(HTML5/CSS3/JavaScript/Vue.js),38
-ì›¹ì„œë¹„ìŠ¤,5
-í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œ,21
-í”„ë¡ íŠ¸ì—”ë“œê°œë°œì,14
-í”„ë¡ íŠ¸ì—”ë“œ,17
-ì›¹í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œ,7
-ì›¹ê°œë°œ,15
+À¥ ÇÁ·ĞÆ®¿£µå °³¹ß(HTML5/CSS3/JavaScript/Vue.js),38
+À¥¼­ºñ½º,5
+ÇÁ·ĞÆ®¿£µå °³¹ß,21
+ÇÁ·ĞÆ®¿£µå°³¹ßÀÚ,14
+ÇÁ·ĞÆ®¿£µå,17
+À¥ÇÁ·ĞÆ®¿£µå °³¹ß,7
+À¥°³¹ß,15
 Laravel,19
 html/css,6
 php/laravel,2
 VueJs,5
 React.js,93
-react-native ì•± ê°œë°œ,7
+react-native ¾Û °³¹ß,7
 backend,12
 machine-learning,32
-ê¸°ê³„í•™ìŠµ,20
+±â°èÇĞ½À,20
 artificial-intelligence,25
 computer-vision,25
 Object Classification,5
-ì¸ê³µì§€ëŠ¥,39
+ÀÎ°øÁö´É,39
 Semantic Segmentation,2
 Image retrieval,1
 object-detection,10
@@ -161,20 +161,20 @@ D3.js,3
 ssr,2
 Styled-components,12
 Data Science,33
-ë°ì´í„°ì‚¬ì´ì–¸ìŠ¤,23
-ë¹…ë°ì´í„°,25
+µ¥ÀÌÅÍ»çÀÌ¾ğ½º,23
+ºòµ¥ÀÌÅÍ,25
 data-warehousing,1
 real-time streaming processing,1
-ë°ì´í„°,6
-í†µê³„í•™,9
-Rë°ì´í„°ë¶„ì„,4
-ë°ì´í„°ë§ˆì´ë‹,15
-ë¹…ë°ì´í„° ë§ˆì´ë‹,11
-R í†µê³„,5
-ë¹…ë°ì´í„° ì—”ì§€ë‹ˆì–´,4
-ë¹…ë°ì´í„° ë¶„ì„/ì¸í”„ë¼/ê°€ì‹œí™”,8
+µ¥ÀÌÅÍ,6
+Åë°èÇĞ,9
+Rµ¥ÀÌÅÍºĞ¼®,4
+µ¥ÀÌÅÍ¸¶ÀÌ´×,15
+ºòµ¥ÀÌÅÍ ¸¶ÀÌ´×,11
+R Åë°è,5
+ºòµ¥ÀÌÅÍ ¿£Áö´Ï¾î,4
+ºòµ¥ÀÌÅÍ ºĞ¼®/ÀÎÇÁ¶ó/°¡½ÃÈ­,8
 data analyst,5
-ë°ì´í„° ì—”ì§€ë‹ˆì–´,4
+µ¥ÀÌÅÍ ¿£Áö´Ï¾î,4
 Data Modeling,12
 Data Engineering,7
 R,15
@@ -187,17 +187,17 @@ Jest,9
 storybook,12
 lerna,1
 Immer,3
-"ë°±ì—”ë“œ ê¸°ìˆ  Java, Spring, Node.js, MySQL",15
-Swift ê°œë°œ ê²½í—˜ì,25
+"¹é¿£µå ±â¼ú Java, Spring, Node.js, MySQL",15
+Swift °³¹ß °æÇèÀÚ,25
 RxSwift,29
 Objective-C,34
 iPhone,26
-ì•„ì´í°,21
+¾ÆÀÌÆù,21
 TensorFlow,56
-ì»´í“¨í„°ê³µí•™,3
-ì»´í“¨í„°ë¹„ì „,11
-Machine Learning (ë¨¸ì‹ ëŸ¬ë‹),7
-ì†Œí”„íŠ¸ì›¨ì–´ê°œë°œ,6
+ÄÄÇ»ÅÍ°øÇĞ,3
+ÄÄÇ»ÅÍºñÀü,11
+Machine Learning (¸Ó½Å·¯´×),7
+¼ÒÇÁÆ®¿ş¾î°³¹ß,6
 Django REST framework,9
 deep-learning,46
 machine-vision,1
@@ -210,15 +210,15 @@ angular,20
 NestJs,11
 Full-stack Engineer,6
 qa,11
-í…ŒìŠ¤íŠ¸ì—”ì§€ë‹ˆì–´,1
-QA í…ŒìŠ¤í„°,16
-ì„œë²„ê°œë°œì,18
-ì´ì»¤ë¨¸ìŠ¤,8
+Å×½ºÆ®¿£Áö´Ï¾î,1
+QA Å×½ºÅÍ,16
+¼­¹ö°³¹ßÀÚ,18
+ÀÌÄ¿¸Ó½º,8
 ai,23
-ë°±ì—”ë“œê°œë°œ,3
-ë¨¸ì‹ ëŸ¬ë‹,46
-íŒŒì´ì¬ê°œë°œì,1
-ë°ì´í„°ì—”ì§€ë‹ˆì–´,6
+¹é¿£µå°³¹ß,3
+¸Ó½Å·¯´×,46
+ÆÄÀÌ½ã°³¹ßÀÚ,1
+µ¥ÀÌÅÍ¿£Áö´Ï¾î,6
 Mongoose,2
 webpack & babel,2
 PHP,140
@@ -227,30 +227,30 @@ Elasticsearch,35
 AWS Elastic Beanstalk,5
 Clickhouse,2
 Airflow,5
-ì‚°ì—…ì œì–´ë§ë°ì´í„°,1
-AI(ì¸ê³µì§€ëŠ¥),13
-ë°ì´í„° ëª¨ë¸ë§,2
-DBMS ì§€ì‹ë³´ìœ ,1
+»ê¾÷Á¦¾î¸Áµ¥ÀÌÅÍ,1
+AI(ÀÎ°øÁö´É),13
+µ¥ÀÌÅÍ ¸ğµ¨¸µ,2
+DBMS Áö½Äº¸À¯,1
 SQL,28
 Express JS,1
 pm2,1
 site scrapping,1
-ì •ë³´ë³´ì•ˆ,7
-í¬ë¡¤ë§,3
+Á¤º¸º¸¾È,7
+Å©·Ñ¸µ,3
 HTML,96
-ì „ìì •ë¶€í”„ë ˆì„ì›Œí¬,2
+ÀüÀÚÁ¤ºÎÇÁ·¹ÀÓ¿öÅ©,2
 "Spring-Boot, JPA",2
-ë””ì§€í„¸ê´‘ê³ ,4
-ë””ì§€í„¸ë§ˆì¼€íŒ…,4
-ì˜¨ë¼ì¸ê´‘ê³ ,5
-ì˜¨ë¼ì¸ë§ˆì¼€íŒ…,4
-ì›¹í¼ë¸”ë¦¬ì‹±,6
+µğÁöÅĞ±¤°í,4
+µğÁöÅĞ¸¶ÄÉÆÃ,4
+¿Â¶óÀÎ±¤°í,5
+¿Â¶óÀÎ¸¶ÄÉÆÃ,4
+À¥ÆÛºí¸®½Ì,6
 PM,2
 UI/UX,9
-ëª¨ë°”ì¼ì•±,3
-í”Œë«í¼,2
+¸ğ¹ÙÀÏ¾Û,3
+ÇÃ·§Æû,2
 Firebase,19
-í´ë¼ìš°ë“œ,6
+Å¬¶ó¿ìµå,6
 GitLab,7
 RabbitMQ,5
 Flask,19
@@ -273,7 +273,7 @@ Visual Studio,4
 mvp,14
 viper,2
 Xcode,20
-íŒŒì´ì¬,6
+ÆÄÀÌ½ã,6
 Python Django,8
 Celery,6
 django-celery,2
@@ -284,12 +284,12 @@ full-stack development,8
 Asana,1
 Ruby On Rails,14
 SpringBoot,32
-ìŠ¤ì¹¼ë¼,1
+½ºÄ®¶ó,1
 Scala,9
 Big Data,22
 C#,33
-ìœ ë‹ˆí‹°,3
-ì•±ê°œë°œì,4
+À¯´ÏÆ¼,3
+¾Û°³¹ßÀÚ,4
 Apache,16
 createjs,1
 AngularJS,45
@@ -299,19 +299,19 @@ penetration-testing,1
 information-security,1
 web-security,1
 app-security,1
-ì·¨ì•½ì  ì§„ë‹¨,1
-ì·¨ì•½ì  ë¶„ì„,3
-ì·¨ì•½ì ì ê²€,1
-App ì·¨ì•½ì  ì§„ë‹¨,1
-ëª¨ì˜í•´í‚¹,2
-ì†Œí”„íŠ¸ì›¨ì–´ ì·¨ì•½ì ,3
-ì›¹ ë³´ì•ˆ,3
-ê°œì¸ì •ë³´ë³´í˜¸,3
+Ãë¾àÁ¡ Áø´Ü,1
+Ãë¾àÁ¡ ºĞ¼®,3
+Ãë¾àÁ¡Á¡°Ë,1
+App Ãë¾àÁ¡ Áø´Ü,1
+¸ğÀÇÇØÅ·,2
+¼ÒÇÁÆ®¿ş¾î Ãë¾àÁ¡,3
+À¥ º¸¾È,3
+°³ÀÎÁ¤º¸º¸È£,3
 network-security,1
-ë„¤íŠ¸ì›Œí¬ë³´ì•ˆ,3
+³×Æ®¿öÅ©º¸¾È,3
 ISO 27001,2
 ISMS,5
-í´ë¼ìš°ë“œ ë³´ì•ˆ,3
+Å¬¶ó¿ìµå º¸¾È,3
 Node JS,25
 Amazon DynamoDB,6
 security,3
@@ -336,33 +336,33 @@ iac,1
 CISSP,3
 CISA,3
 CPPG,1
-ì •ë³´ë³´í˜¸ê´€ë¦¬ì²´ê³„,2
-ë³´ì•ˆ,2
-ì†Œí”„íŠ¸ì›¨ì–´í…ŒìŠ¤íŠ¸,4
-ì œí’ˆ í…ŒìŠ¤íŠ¸,2
-ì‚¬ìš©ì„±í…ŒìŠ¤íŠ¸,3
-í…ŒìŠ¤í„°,2
+Á¤º¸º¸È£°ü¸®Ã¼°è,2
+º¸¾È,2
+¼ÒÇÁÆ®¿ş¾îÅ×½ºÆ®,4
+Á¦Ç° Å×½ºÆ®,2
+»ç¿ë¼ºÅ×½ºÆ®,3
+Å×½ºÅÍ,2
 testing,3
 test-cases,1
 quality-assurance,5
 QA/QC,7
-í’ˆì§ˆê´€ë¦¬,1
+Ç°Áú°ü¸®,1
 shell-script,5
 AWS WAF,1
 utm,1
 waf,1
-ì •ë³´ë³´í˜¸,3
-ë³´ì•ˆì†”ë£¨ì…˜,2
-í´ë¼ìš°ë“œ ì¸í”„ë¼,3
-ì»´í”Œë¼ì´ì–¸ìŠ¤,1
-ë°ì´í„° ë ˆì´í¬,1
+Á¤º¸º¸È£,3
+º¸¾È¼Ö·ç¼Ç,2
+Å¬¶ó¿ìµå ÀÎÇÁ¶ó,3
+ÄÄÇÃ¶óÀÌ¾ğ½º,1
+µ¥ÀÌÅÍ ·¹ÀÌÅ©,1
 gitflow,2
 tableau,3
 superset,2
 powerbi,2
 Redash,2
 QuickSight,2
-ë°ì´í„° íŒŒì´í”„ë¼ì¸,1
+µ¥ÀÌÅÍ ÆÄÀÌÇÁ¶óÀÎ,1
 power bi,1
 rdb,5
 ORM,8
@@ -370,8 +370,8 @@ JPA,15
 Hibernate,4
 ml,3
 NLP,17
-ë”¥ëŸ¬ë‹,40
-ìì—°ì–´ì²˜ë¦¬,4
+µö·¯´×,40
+ÀÚ¿¬¾îÃ³¸®,4
 scss,8
 media-query,1
 promise,1
@@ -397,17 +397,17 @@ Apache Spark,3
 gnu,1
 CentOS,2
 Cluster Orchestration,1
-Python(íŒŒì´ì¬),3
-"Cordova,ionic í•˜ì´ë¸Œë¦¬ë“œ ì•± ê°œë°œ",1
+Python(ÆÄÀÌ½ã),3
+"Cordova,ionic ÇÏÀÌºê¸®µå ¾Û °³¹ß",1
 C,45
 C++,79
 OpenCV,5
 Open GL,9
-í™”ë©´ì„¤ê³„,1
+È­¸é¼³°è,1
 robotics,10
-ì„ë² ë””ë“œ SW ê°œë°œ,1
+ÀÓº£µğµå SW °³¹ß,1
 SLAM,6
-ì˜ìƒì²˜ë¦¬,10
+¿µ»óÃ³¸®,10
 Github Actions,1
 GCP,13
 PixiJS,1
@@ -417,8 +417,8 @@ keras,10
 doker,1
 elastic,3
 grafana,2
-ìˆ˜í•™,1
-ì„ í˜•ëŒ€ìˆ˜í•™,1
+¼öÇĞ,1
+¼±Çü´ë¼öÇĞ,1
 Rust,8
 SMART CONTRACT,2
 Ethereum Client Development,1
@@ -427,37 +427,37 @@ containers,2
 storage,2
 openvpn,2
 vercel,4
-ì„œë²„ê°œë°œ,4
-ì‘ìš©í”„ë¡œê·¸ë˜ë¨¸,3
-ì•ˆë“œë¡œì´ë“œ,24
+¼­¹ö°³¹ß,4
+ÀÀ¿ëÇÁ·Î±×·¡¸Ó,3
+¾Èµå·ÎÀÌµå,24
 GraphQL API,4
 Amazon EKS,3
 domain-driven-design,1
 AWS ECS,7
 Agile Scrum,3
-ë¨¸ì‹ ëŸ¬ë‹ NLP,1
+¸Ó½Å·¯´× NLP,1
 ML/DL,1
 seo,6
 Java Spring,2
 JAVA Restful API,2
 gis,7
-ë°±ì—”ë“œê°œë°œì,36
+¹é¿£µå°³¹ßÀÚ,36
 ab-testing,1
 tpm,1
 po,2
 frontend-developer,3
-ë„¤íŠ¸ì›Œí¬,5
-"POS, ë„¤íŠ¸ì›Œí¬êµ¬ì¶•Â·ìš´ì˜Â·ê´€ë¦¬",1
-ë„¤íŠ¸ì›Œí¬ê´€ë¦¬,1
+³×Æ®¿öÅ©,5
+"POS, ³×Æ®¿öÅ©±¸Ãà¡¤¿î¿µ¡¤°ü¸®",1
+³×Æ®¿öÅ©°ü¸®,1
 vpn,1
 firewall,1
 SSL,1
 ccna,1
 CCNP,1
 CCIE,1
-ë³´ì•ˆê°ì‚¬,1
-ë””ì§€í„¸í¬ë Œì‹,1
-ë³´ì•ˆì»¨ì„¤íŒ…,1
+º¸¾È°¨»ç,1
+µğÁöÅĞÆ÷·»½Ä,1
+º¸¾ÈÄÁ¼³ÆÃ,1
 WPF,2
 XAML,1
 HTTP,12
@@ -476,20 +476,20 @@ modern php,2
 Laravel framwork,5
 Amazon ElasticBeanstalk,3
 s3,5
-í…ŒìŠ¤íŠ¸ ìë™í™”,3
+Å×½ºÆ® ÀÚµ¿È­,3
 API,27
 hp-uft,1
 soapui,1
 JMeter,2
 loadrunner,1
 Ajax,15
-í…ŒìŠ¤íŠ¸ìë™í™”,3
-ì„±ëŠ¥í…ŒìŠ¤íŠ¸,1
+Å×½ºÆ®ÀÚµ¿È­,3
+¼º´ÉÅ×½ºÆ®,1
 Java/JSP,8
 MSoffice,1
-ì›¹ì• í”Œë¦¬ì¼€ì´ì…˜,2
-aws ì„œë²„ê´€ë¦¬,1
-Java ê¸°ë°˜ ì›¹ì„œë¹„ìŠ¤ ê°œë°œ,1
+À¥¾ÖÇÃ¸®ÄÉÀÌ¼Ç,2
+aws ¼­¹ö°ü¸®,1
+Java ±â¹İ À¥¼­ºñ½º °³¹ß,1
 Context API,2
 restful,10
 git-flow,1
@@ -498,7 +498,7 @@ ros,7
 ros2,1
 SAP ERP,4
 SAP SD,2
-IT ì»¨ì„¤í„´íŠ¸,2
+IT ÄÁ¼³ÅÏÆ®,2
 SAP LE,1
 sap,1
 erp,1
@@ -510,10 +510,10 @@ frontend,6
 Spring Boot 2,3
 querydsl,2
 JPA:hibernate,3
-í¼ë¸”ë¦¬ì…”,2
-ì›¹ í¼ë¸”ë¦¬ì…”,2
-ì›¹ í¼ë¸”ë¦¬ì‹±,2
-ì˜ì¹´íŠ¸5,1
+ÆÛºí¸®¼Å,2
+À¥ ÆÛºí¸®¼Å,2
+À¥ ÆÛºí¸®½Ì,2
+¿µÄ«Æ®5,1
 backend developer,16
 nuxt.js,10
 framework,2
@@ -521,11 +521,11 @@ aws-ec2,5
 mq,1
 rds,4
 swarm,1
-í¼ë¸”ë¦¬ì‹±,3
+ÆÛºí¸®½Ì,3
 xml/json,1
 Maven,1
 spring-cloud,3
-ì„œë²„,2
+¼­¹ö,2
 image-processing,19
 data,6
 axios,4
@@ -540,30 +540,30 @@ Cross platform App Developement,1
 react natvie,1
 lambda,4
 AWS Lambda,9
-ì›¹í”„ë¡ íŠ¸ì—”ë“œ,4
-ì›¹í”„ë¡œê·¸ë˜ë¨¸,4
-ìë°”ìŠ¤í¬ë¦½íŠ¸,3
-ìœˆë„ìš°ì¦ˆí”„ë¡œê·¸ë˜ë°,1
+À¥ÇÁ·ĞÆ®¿£µå,4
+À¥ÇÁ·Î±×·¡¸Ó,4
+ÀÚ¹Ù½ºÅ©¸³Æ®,3
+À©µµ¿ìÁîÇÁ·Î±×·¡¹Ö,1
 web-frontend,8
-ê°œë°œì,8
-ì›¹ë°±ì—”ë“œ,4
+°³¹ßÀÚ,8
+À¥¹é¿£µå,4
 Front-end framework,1
 Web Front-end,4
-ë°ì´í„° ì—”ì§€ë‹ˆì–´ë§,2
-ì›¹ ìŠ¤í¬ë˜í•‘,2
-ì›¹ í¬ë¡¤ë§,2
-ì›¹í¬ë¡¤ë§,1
+µ¥ÀÌÅÍ ¿£Áö´Ï¾î¸µ,2
+À¥ ½ºÅ©·¡ÇÎ,2
+À¥ Å©·Ñ¸µ,2
+À¥Å©·Ñ¸µ,1
 Dapp(solidity),1
-ìŠ¤ë§ˆíŠ¸ ì»¨íŠ¸ë™íŠ¸,1
-ì°¨ìµê±°ë˜,1
+½º¸¶Æ® ÄÁÆ®·¢Æ®,1
+Â÷ÀÍ°Å·¡,1
 web3.js,2
 uniswap,1
 Aave,1
 Truffle-suite,2
 Web Server,1
 load-balancer,1
-ê¸°íš,1
-ì„œë¹„ìŠ¤ê¸°íš,1
+±âÈ¹,1
+¼­ºñ½º±âÈ¹,1
 JVM,1
 percona,1
 AWS S3/Cloudfront,1
@@ -574,12 +574,12 @@ AuroraDB,2
 Kibana,8
 paas,1
 iaas,1
-í”„ë¡œì íŠ¸PM,2
-ì•„í‚¤í…ì³ì„¤ê³„,1
+ÇÁ·ÎÁ§Æ®PM,2
+¾ÆÅ°ÅØÃÄ¼³°è,1
 Web Service,5
-ë°ì´í„°ë¶„ì„,18
+µ¥ÀÌÅÍºĞ¼®,18
 Data Visualizing,3
-ì„œë²„API,7
+¼­¹öAPI,7
 view,2
 react-router,2
 Sass,8
@@ -587,25 +587,25 @@ redux-thunk,2
 e2e-testing,3
 web-api-testing,1
 docker-compose,1
-"Tensorflow, Keras ë“± ë¨¸ì‹ ëŸ¬ë‹/ë”¥ëŸ¬ë‹",9
-ì„œë²„êµ¬ì¶•,1
-ë°ì´í„°ëª¨ë¸ë§,1
+"Tensorflow, Keras µî ¸Ó½Å·¯´×/µö·¯´×",9
+¼­¹ö±¸Ãà,1
+µ¥ÀÌÅÍ¸ğµ¨¸µ,1
 UNIX,4
 erd,2
-RDBMSì— ëŒ€í•œ ì´í•´,5
+RDBMS¿¡ ´ëÇÑ ÀÌÇØ,5
 Object-C,1
 Less,3
 web-applications,4
-ë°ë¸Œì˜µìŠ¤,2
+µ¥ºê¿É½º,2
 REST/GraphQL,1
 client-applications,1
 infrastructure,2
 client,2
-ì¸í”„ë¼,4
+ÀÎÇÁ¶ó,4
 Amazon Amplify,2
 Amazon Cognito,2
-ë¹…ë°ì´í„°ë¶„ì„,3
-ë°ì´í„°ì‹œê°í™”,2
+ºòµ¥ÀÌÅÍºĞ¼®,3
+µ¥ÀÌÅÍ½Ã°¢È­,2
 Ansible,5
 php7,3
 CodeIgniter,4
@@ -614,28 +614,28 @@ ISTQB,3
 Scrum Master,1
 iot,6
 mqtt,3
-ì‚¬ë¬¼ì¸í„°ë„·,4
-ìŠ¤ë§ˆíŠ¸íŒ©í† ë¦¬,1
-ì„ë² ë””ë“œ,6
-ì•ˆë“œë¡œì´ë“œê°œë°œì,16
+»ç¹°ÀÎÅÍ³İ,4
+½º¸¶Æ®ÆÑÅä¸®,1
+ÀÓº£µğµå,6
+¾Èµå·ÎÀÌµå°³¹ßÀÚ,16
 db,4
-ì›¹ ë°±ì—”ë“œ ê°œë°œ(Java/Spring/Oracle/MySQL),3
-ê°œë°œ,9
-ì„¤ê³„,1
-UI/UX ì„¤ê³„,1
-ì„œë¹„ìŠ¤ì„¤ê³„,1
-ëª¨ë°”ì¼ì„œë¹„ìŠ¤ì„¤ê³„,1
-ì˜¤í”ˆ API ì„¤ê³„/ê°œë°œ ê²½í—˜,1
-ì•Œê³ ë¦¬ì¦˜,11
-ì•Œê³ ë¦¬ì¦˜ ê°œë°œ,1
+À¥ ¹é¿£µå °³¹ß(Java/Spring/Oracle/MySQL),3
+°³¹ß,9
+¼³°è,1
+UI/UX ¼³°è,1
+¼­ºñ½º¼³°è,1
+¸ğ¹ÙÀÏ¼­ºñ½º¼³°è,1
+¿ÀÇÂ API ¼³°è/°³¹ß °æÇè,1
+¾Ë°í¸®Áò,11
+¾Ë°í¸®Áò °³¹ß,1
 O2O service,2
-ëª¨ë°”ì¼O2O,1
+¸ğ¹ÙÀÏO2O,1
 UX/UI,1
-Java/Kotlin í˜¹ì€ Swift,10
-ì•ˆë“œë¡œì´ë“œê°œë°œ,15
-ì•ˆë“œë¡œì´ë“œ ê°œë°œ,10
+Java/Kotlin È¤Àº Swift,10
+¾Èµå·ÎÀÌµå°³¹ß,15
+¾Èµå·ÎÀÌµå °³¹ß,10
 apollo,1
-ëª¨ë°”ì¼ ì•± ê°œë°œ,1
+¸ğ¹ÙÀÏ ¾Û °³¹ß,1
 RDBMS(oracle),2
 Amazon EC2,2
 Amazon S3,3
@@ -649,8 +649,8 @@ GA,1
 Appsflyer,1
 Amplitude,1
 ELK,6
-í¬ë¡œìŠ¤ë¸Œë¼ìš°ì§•,4
-ë°˜ì‘í˜•ì›¹,3
+Å©·Î½ººê¶ó¿ìÂ¡,4
+¹İÀÀÇüÀ¥,3
 iscjp,1
 mcdba,1
 MCSE,1
@@ -663,14 +663,14 @@ Apple ARKit,1
 AR/VR,4
 Realm,3
 Eureka,1
-ë””ìì¸íŒ¨í„´,1
+µğÀÚÀÎÆĞÅÏ,1
 LayoutKit,1
 3D mapping,1
 computer-graphics,3
 CNN,3
 3D CNN,1
 3D,3
-Retool(ë¦¬íˆ´),1
+Retool(¸®Åø),1
 Elastic stack,1
 Sass/scss,6
 Google Chrome Extension,4
@@ -682,20 +682,20 @@ SQLAlchemy,1
 pytest,2
 Yona,1
 Full-stack Developer,1
-ë¦¬ì•¡íŠ¸,3
+¸®¾×Æ®,3
 Java Spring Framework,1
-í•˜ì´ë¸Œë¦¬ë“œì•±,2
-í•˜ì´ë¸Œë¦¬ë“œì›¹ì•±,2
-í”„ë¡ íŠ¸ê°œë°œ,2
-í’€ìŠ¤íƒ,2
+ÇÏÀÌºê¸®µå¾Û,2
+ÇÏÀÌºê¸®µåÀ¥¾Û,2
+ÇÁ·ĞÆ®°³¹ß,2
+Ç®½ºÅÃ,2
 Naver Cloud,2
 web-publishing,2
-"í¬í† ìƒµ, HTML, CSS",1
-ë°˜ì‘í˜• ì›¹,2
-ëª¨ë°”ì¼ë””ìì¸,2
+"Æ÷Åä¼¥, HTML, CSS",1
+¹İÀÀÇü À¥,2
+¸ğ¹ÙÀÏµğÀÚÀÎ,2
 webdesign,1
 publishing,2
-"ì›¹í¼ë¸”ë¦¬ì‹±(jQuery, CSS, HTML, AngularJS, VueJS)",1
+"À¥ÆÛºí¸®½Ì(jQuery, CSS, HTML, AngularJS, VueJS)",1
 Phyton,1
 ci,3
 nest.js,2
@@ -709,9 +709,9 @@ HybridApp,1
 es2015,2
 unit-testing,1
 Back-office-admin,1
-í˜ì–´í”„ë¡œê·¸ë˜ë°,1
-ì½”ë“œë¦¬ë·°,1
-uiê°œë°œ,1
+Æä¾îÇÁ·Î±×·¡¹Ö,1
+ÄÚµå¸®ºä,1
+ui°³¹ß,1
 Component,1
 es7,1
 load-balancing,1
@@ -721,8 +721,8 @@ RXKotlin,6
 Clean Architecture,4
 Notion,2
 react-redux,2
-ì„œë²„ë³´ì•ˆ,1
-ì˜ìƒ ì²˜ë¦¬,1
+¼­¹öº¸¾È,1
+¿µ»ó Ã³¸®,1
 code refactoring,1
 SpringFramework,3
 socket,1
@@ -734,20 +734,20 @@ Gradle,4
 Phython,1
 web-frameworks,2
 Rails,6
-ì•±api,1
+¾Ûapi,1
 LogDNA,1
 New Relic,1
-ì»¤ë®¤ë‹ˆì¼€ì´ì…˜ê³¼ í˜‘ì—…,1
+Ä¿¹Â´ÏÄÉÀÌ¼Ç°ú Çù¾÷,1
 Bitrise,1
 RxAndroid,5
 Google Maps,1
 Bluetooth,1
 memory-leaks,1
 thread,1
-ì˜ì‚¬ì†Œí†µ,2
+ÀÇ»ç¼ÒÅë,2
 pyhton,1
-í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œ( HTML/CSS3/Javascript),1
-í´ë¡œì €,1
+ÇÁ·ĞÆ®¿£µå °³¹ß( HTML/CSS3/Javascript),1
+Å¬·ÎÀú,1
 Stackoverflow,1
 Test Automation,1
 deploy,1
@@ -757,13 +757,13 @@ CROSS BROWSING,3
 golog,1
 Solidity,4
 image-recognition,5
-ë”¥ëŸ¬ë‹ì´ë¯¸ì§€ë¶„ì„,7
-ìŠ¤ë§ˆíŠ¸ë†ì—…,1
-ìŠ¤ë§ˆíŠ¸íŒœ,1
+µö·¯´×ÀÌ¹ÌÁöºĞ¼®,7
+½º¸¶Æ®³ó¾÷,1
+½º¸¶Æ®ÆÊ,1
 Smart Farm,1
 AWS IoT,2
 JSON,5
-ë””ì§€í„¸ì½˜í…ì¸ ,1
+µğÁöÅĞÄÜÅÙÃ÷,1
 zeplin,8
 iOS/AOS,2
 cache,6
@@ -809,23 +809,23 @@ ArangoDB,2
 Amazon Neptune,2
 message-queue,3
 soa,1
-ì˜¤í”ˆì†ŒìŠ¤,2
-ë¹Œë“œìë™í™”,2
-ì§€ì†ì í†µí•©,1
-androidí”Œë«í¼,1
+¿ÀÇÂ¼Ò½º,2
+ºôµåÀÚµ¿È­,2
+Áö¼ÓÀûÅëÇÕ,1
+androidÇÃ·§Æû,1
 Haskell,3
 Travis,1
 saas,1
 responsive-design,1
 beacon,1
 2D/3D Image Processing,1
-ëª¨ë°”ì¼ë”¥ëŸ¬ë‹,1
+¸ğ¹ÙÀÏµö·¯´×,1
 css/scss,1
 SVN,4
 C C++,12
-ì˜ìƒì²˜ë¦¬ ì†Œí”„íŠ¸ì›¨ì–´ ì•Œê³ ë¦¬ì¦˜,1
+¿µ»óÃ³¸® ¼ÒÇÁÆ®¿ş¾î ¾Ë°í¸®Áò,1
 DCNN,1
-web/mobile application ê°œë°œ,1
+web/mobile application °³¹ß,1
 AWS EMR,2
 angular 2,1
 Liquibase,1
@@ -834,9 +834,9 @@ npm,1
 angular2,2
 hiberate,1
 DL/ML,1
-í’€ìŠ¤íƒê°œë°œì,4
-ëª¨ë°”ì¼ì„œë¹„ìŠ¤,1
-êµ¬ê¸€í”Œë ˆì´,1
+Ç®½ºÅÃ°³¹ßÀÚ,4
+¸ğ¹ÙÀÏ¼­ºñ½º,1
+±¸±ÛÇÃ·¹ÀÌ,1
 Android Developers,1
 google-play-store,2
 iOS Developer,1
@@ -849,18 +849,18 @@ Storm,1
 sqoop,1
 HBase,1
 p2p,1
-ì½”ì¸ê°œë°œ,1
-ì§€ê°‘ ê°œë°œ,1
+ÄÚÀÎ°³¹ß,1
+Áö°© °³¹ß,1
 dapp,1
 tracker,1
 torrent,1
 mockito,1
 JUnit,2
 hyperledger,1
-ì•”í˜¸í™”í™”í,1
+¾ÏÈ£È­È­Æó,1
 cryptocurrencyinsight,1
-ì•ŒíŠ¸ì½”ì¸,1
-ìë°”ê°œë°œì,1
+¾ËÆ®ÄÚÀÎ,1
+ÀÚ¹Ù°³¹ßÀÚ,1
 platform,3
 Blockchain business,1
 cryptography,1
@@ -869,11 +869,11 @@ DBMS(MS-SQL),2
 packet-sniffers,1
 Recoil,1
 MobX,7
-ë¨¸ì‹ ë¹„ì „,1
-ë¨¸ì‹ ë¹„ì „ ê°œë°œ,1
-ë°ì´í„° ë¶„ì„ / ë”¥ëŸ¬ë‹ ëª¨ë¸ ê°œë°œ,3
-ì”¨í”¼í”¼,1
-ê¸°êµ¬ì„¤ê³„,1
+¸Ó½ÅºñÀü,1
+¸Ó½ÅºñÀü °³¹ß,1
+µ¥ÀÌÅÍ ºĞ¼® / µö·¯´× ¸ğµ¨ °³¹ß,3
+¾¾ÇÇÇÇ,1
+±â±¸¼³°è,1
 solidworks,2
 Swift3.0,4
 Service Platform Software Architecture,1
@@ -883,13 +883,13 @@ RDBMS MySQL,1
 Flux,2
 Cassandra,5
 MessageQueues,1
-"ì›¹ë°±ì—”ë“œ(Struts, LiveFramework, iBatis, WebSphere, Oracle)",1
-ê¸°ìˆ ì˜ì—…,1
-ITê¸°ìˆ ì˜ì—…,1
+"À¥¹é¿£µå(Struts, LiveFramework, iBatis, WebSphere, Oracle)",1
+±â¼ú¿µ¾÷,1
+IT±â¼ú¿µ¾÷,1
 Assembly,1
 ASP.NET MVC,2
 ms-sql,2
-ì´ë¯¸ì§€í”„ë¡œì„¸ì‹±,1
+ÀÌ¹ÌÁöÇÁ·Î¼¼½Ì,1
 photo retouching,1
 Amazon RDS,4
 Amazon Aurora,2
@@ -901,42 +901,42 @@ ASP.NET Core,2
 csharp,3
 Ubuntu,2
 bamboo,1
-ì›¹ê°œë°œì,5
+À¥°³¹ßÀÚ,5
 software-quality,2
 bem,2
 JavaScript/nodeJS,3
 eCommerce,9
 ar,3
-ì¦ê°•í˜„ì‹¤,2
-í´ë¼ì´ì–¸íŠ¸ í”„ë¡œê·¸ë˜ë¨¸,1
+Áõ°­Çö½Ç,2
+Å¬¶óÀÌ¾ğÆ® ÇÁ·Î±×·¡¸Ó,1
 Unity (2D),1
-ìœ ë‹ˆí‹°3D,1
-ë²¡ì—”ë“œ ê°œë°œ,1
+À¯´ÏÆ¼3D,1
+º¤¿£µå °³¹ß,1
 CircleCI,10
 Datadog,1
 feature engineering,1
 Model Serving,1
 R&D,1
-ë°ì´í„°íŠ¸ë˜í‚¹,1
-ê·¸ë¡œìŠ¤í•´í‚¹,1
-í†µê³„ë¶„ì„,3
+µ¥ÀÌÅÍÆ®·¡Å·,1
+±×·Î½ºÇØÅ·,1
+Åë°èºĞ¼®,3
 asp-net,1
 RabbigMQ,1
 fastapi,1
-ê°œë°œíŒ€ì¥,2
+°³¹ßÆÀÀå,2
 "defi, blockchain",1
-Wallet&ìŠ¤ë§ˆíŠ¸ì»¨íŠ¸ë™,1
+Wallet&½º¸¶Æ®ÄÁÆ®·¢,1
 Amazon RDS for Aurora,1
 fcm,2
 css-in-js,1
 SwiftUI,1
-ë§ˆì´í¬ë¡œì„œë¹„ìŠ¤,1
+¸¶ÀÌÅ©·Î¼­ºñ½º,1
 state,1
 CRM,1
-IT/ì¸ê³µì§€ëŠ¥,1
-ìŠ¤íƒ€ì¼í…Œí¬,1
+IT/ÀÎ°øÁö´É,1
+½ºÅ¸ÀÏÅ×Å©,1
 3d-reconstruction,1
-í…ì„œí”Œë¡œìš°,4
+ÅÙ¼­ÇÃ·Î¿ì,4
 DeepLearning,4
 deep learing,1
 pci-dss,1
@@ -961,51 +961,51 @@ mpeg,1
 codec,1
 video-codecs,1
 widget,1
-ë§¤ë‹ˆì§€ë¨¼íŠ¸,1
+¸Å´ÏÁö¸ÕÆ®,1
 software-engineering,4
 full stack,4
 Microservices architecture,7
-UI/UXë””ìì¸,5
+UI/UXµğÀÚÀÎ,5
 Handlebars.js,1
 Eclipse,2
 scm,1
 Clinet-server,1
 c#WPF,1
-ìŠ¤í”„ë§í´ë¼ìš°ë“œ,1
+½ºÇÁ¸µÅ¬¶ó¿ìµå,1
 sequelize.js,2
 CI/CD Automation,1
-í™ˆí˜ì´ì§€ì œì‘,2
-ì‡¼í•‘ëª°,4
-ì˜¨ë¼ì¸ì‡¼í•‘,1
+È¨ÆäÀÌÁöÁ¦ÀÛ,2
+¼îÇÎ¸ô,4
+¿Â¶óÀÎ¼îÇÎ,1
 yarn,1
 sequelize-hierarchy,1
 Spring 3.x,1
-í¼í¬ë¨¼ìŠ¤ë§ˆì¼€íŒ…,1
+ÆÛÆ÷¸Õ½º¸¶ÄÉÆÃ,1
 poc,1
-ì–´í”Œë¦¬ì¼€ì´ì…˜ì•„í‚¤í…ì²˜,1
-í´ë¼ìš°ë“œ ì„œë¹„ìŠ¤,1
+¾îÇÃ¸®ÄÉÀÌ¼Ç¾ÆÅ°ÅØÃ³,1
+Å¬¶ó¿ìµå ¼­ºñ½º,1
 Windows,4
 MFC,4
 architecture,1
 migration,1
-ì „ì‚°ê´€ë¦¬,2
-í†µê³„,1
+Àü»ê°ü¸®,2
+Åë°è,1
 cmos,1
-ì˜ë£Œê¸°ê¸°ê°œë°œ,1
+ÀÇ·á±â±â°³¹ß,1
 dba,5
 PACS,4
 amazon,1
-ì‹œìŠ¤í…œì—”ì§€ë‹ˆì–´(SE),1
-í¬í† ìƒµ,1
-ì—‘ì…€,1
+½Ã½ºÅÛ¿£Áö´Ï¾î(SE),1
+Æ÷Åä¼¥,1
+¿¢¼¿,1
 Graphql/Apollo,3
 product engineering,1
-í”„ëŸ°íŠ¸ì—”ë“œ ê°œë°œ,1
+ÇÁ·±Æ®¿£µå °³¹ß,1
 DW,2
-ê³ ê°ì»¤ë®¤ë‹ˆì¼€ì´ì…˜,2
-í”„ë¡œì íŠ¸ ê´€ë¦¬,2
-ìš”êµ¬ì‚¬í•­ ë¶„ì„,1
-ì œì•ˆì„œ,1
+°í°´Ä¿¹Â´ÏÄÉÀÌ¼Ç,2
+ÇÁ·ÎÁ§Æ® °ü¸®,2
+¿ä±¸»çÇ× ºĞ¼®,1
+Á¦¾È¼­,1
 IT Project Management,1
 project lead,1
 search,1
@@ -1025,52 +1025,52 @@ lint,1
 aws-s3,2
 ami,1
 subscriptions,1
-ì†Œí”„íŠ¸ì›¨ì–´,10
-ììœ¨ì£¼í–‰,13
+¼ÒÇÁÆ®¿ş¾î,10
+ÀÚÀ²ÁÖÇà,13
 mobile,2
-ë°˜ì‘í˜•,1
+¹İÀÀÇü,1
 Adobe Illustrator,3
 Adobe Photoshop,3
 Sketch,6
 figma,3
 ASP.NET,8
-ì•±,1
-í•˜ì´ë¸Œë¦¬ë“œì•±ê°œë°œì,3
+¾Û,1
+ÇÏÀÌºê¸®µå¾Û°³¹ßÀÚ,3
 SAS,2
 face-detection,1
 opencl,1
-ì˜ìƒì²˜ë¦¬ ì˜ìƒì¸ì‹ Deep Learning Neural Network íŒ¨í„´ì¸ì‹ TensorFlow Theano,2
+¿µ»óÃ³¸® ¿µ»óÀÎ½Ä Deep Learning Neural Network ÆĞÅÏÀÎ½Ä TensorFlow Theano,2
 gan,3
-ë°±ì•¤ë“œ ê°œë°œ,1
-ë“œë¡ ,8
+¹é¾Øµå °³¹ß,1
+µå·Ğ,8
 flight control,6
-ì œì–´ ë¡œë´‡,10
-ë¡œë´‡ì œì–´,10
-ì†Œí”„íŠ¸ì›¨ì–´ ê°œë°œ,8
-ë©”ì¹´íŠ¸ë¡œë‹‰ìŠ¤,10
+Á¦¾î ·Îº¿,10
+·Îº¿Á¦¾î,10
+¼ÒÇÁÆ®¿ş¾î °³¹ß,8
+¸ŞÄ«Æ®·Î´Ğ½º,10
 embedded,6
 slam-algorithm,5
 sensor-fusion,5
-ë¡œë´‡ììœ¨ì£¼í–‰,7
-í•¨ìˆ˜í˜• í”„ë¡œê·¸ë˜ë°,1
-ì—°êµ¬ê°œë°œ,1
-ë””ì§€í„¸ ë¯¸ë””ì–´ ê´‘ê³ ,1
-íƒ€ê²ŸíŒ… ê´‘ê³ ,1
-í”Œë«í¼ì„œë¹„ìŠ¤ìš´ì˜,1
-í”Œë«í¼ ì„œë¹„ìŠ¤ êµ¬ì¶•,1
-ì„œë¹„ìŠ¤ê°œë°œ,1
+·Îº¿ÀÚÀ²ÁÖÇà,7
+ÇÔ¼öÇü ÇÁ·Î±×·¡¹Ö,1
+¿¬±¸°³¹ß,1
+µğÁöÅĞ ¹Ìµğ¾î ±¤°í,1
+Å¸°ÙÆÃ ±¤°í,1
+ÇÃ·§Æû¼­ºñ½º¿î¿µ,1
+ÇÃ·§Æû ¼­ºñ½º ±¸Ãà,1
+¼­ºñ½º°³¹ß,1
 Amazon Redshift,2
 Adobe Premiere pro,1
 Adobe InDesign,1
-ì›¹ë””ìì¸,2
-í”„ë¡ íŠ¸ì—”ë“œ ë° ê°œë°œ (ì›Œë“œí”„ë ˆìŠ¤ ê¸°ë°˜),1
-ì›Œë“œí”„ë ˆìŠ¤,1
-ì›Œë“œí”„ë ˆìŠ¤ ë””ìì¸,1
-ì˜ìƒ,1
-ì˜ìƒí¸ì§‘,1
-ì˜ìƒì´¬ì˜,1
-í”„ë¦¬ë¯¸ì–´,1
-ì˜ìƒê¸°íš,1
+À¥µğÀÚÀÎ,2
+ÇÁ·ĞÆ®¿£µå ¹× °³¹ß (¿öµåÇÁ·¹½º ±â¹İ),1
+¿öµåÇÁ·¹½º,1
+¿öµåÇÁ·¹½º µğÀÚÀÎ,1
+¿µ»ó,1
+¿µ»óÆíÁı,1
+¿µ»óÃÔ¿µ,1
+ÇÁ¸®¹Ì¾î,1
+¿µ»ó±âÈ¹,1
 PD,1
 fp,1
 e-commerce,3
@@ -1086,13 +1086,13 @@ Algolia,2
 semaphoreci,2
 PeriscopeData,2
 SQLite,2
-ë¦¬ì•¡íŠ¸ë„¤ì´í‹°ë¸Œ,4
-ì›¹ê°œë°œ/JSP,1
-"ì›¹í¼ë¸”ë¦¬ì‹±(HTML,CSS,JAVASCRIPT(JQUERY))",1
+¸®¾×Æ®³×ÀÌÆ¼ºê,4
+À¥°³¹ß/JSP,1
+"À¥ÆÛºí¸®½Ì(HTML,CSS,JAVASCRIPT(JQUERY))",1
 UX/UI Design,2
 AWS Cognito,1
 - AWS Elasticache for Redis,1
-ì—”ì§€ë‹ˆì–´,1
+¿£Áö´Ï¾î,1
 Engineer,1
 Software,1
 "Python, Tensorflow, pytorch",8
@@ -1110,35 +1110,35 @@ MATLAB,3
 EAGLE,1
 orcad,1
 pspice,1
-CUDA ë¶„ì‚°ê¸°ìˆ ,1
+CUDA ºĞ»ê±â¼ú,1
 3d-modeling,1
-ë³‘ë ¬ì»´í“¨í„°,1
+º´·ÄÄÄÇ»ÅÍ,1
 ComputerVision,2
 camera,1
 speech-synthesis,2
 text-to-speech,1
 Postman,1
 appium,1
-QA ì—”ì§€ë‹ˆì–´,1
+QA ¿£Áö´Ï¾î,1
 Atlassian JIRA,1
 GPS,1
-í¼í”Œë¦¬ì‹±,1
+ÆÛÇÃ¸®½Ì,1
 Oracle,3
 reporting,1
-ì‚°ì—…ê³µí•™,1
-ë°˜ë„ì²´ ê³µì •,1
-ìë™í™”,2
+»ê¾÷°øÇĞ,1
+¹İµµÃ¼ °øÁ¤,1
+ÀÚµ¿È­,2
 pi,1
-ë””ìŠ¤í”Œë ˆì´,1
-ì œì¡°ìƒì‚°ê³µì •,1
-ì œì¡°,1
+µğ½ºÇÃ·¹ÀÌ,1
+Á¦Á¶»ı»ê°øÁ¤,1
+Á¦Á¶,1
 Product Roadmapping,1
-ë°˜ë„ì²´ì¥ë¹„,1
+¹İµµÃ¼Àåºñ,1
 Product Manager,1
-í”„ë¡œë•íŠ¸ë§¤ë‹ˆì €,1
+ÇÁ·Î´öÆ®¸Å´ÏÀú,1
 Product owner,2
 CTO,3
-ì›¹ ê°œë°œ,1
+À¥ °³¹ß,1
 python flask,2
 mathematics,1
 Websocket/Socket.io,1
@@ -1153,12 +1153,12 @@ dbms,2
 server,4
 AWS Elastic Load Balancing (ELB),2
 System Engineer,2
-ë¦¬ëˆ…ìŠ¤,4
-ì˜ë£Œê¸°ê¸°,1
+¸®´ª½º,4
+ÀÇ·á±â±â,1
 wiki,2
 analysis,1
-ì˜ê³µí•™,2
-ì˜ë£Œì˜ìƒ,2
+ÀÇ°øÇĞ,2
+ÀÇ·á¿µ»ó,2
 Medical Image Processing,1
 statistical-analysis,1
 image-segmentation,1
@@ -1166,52 +1166,52 @@ classification,1
 generator,1
 detection,1
 window,1
-ìœˆë„ìš°,1
-ë‡Œê³µí•™,1
-ë‡Œì˜ìƒ,1
-ì˜ë£Œë°ì´í„° ë¶„ì„,2
-ì˜ë£Œë°ì´í„°ë¶„ì„,1
+À©µµ¿ì,1
+³ú°øÇĞ,1
+³ú¿µ»ó,1
+ÀÇ·áµ¥ÀÌÅÍ ºĞ¼®,2
+ÀÇ·áµ¥ÀÌÅÍºĞ¼®,1
 neural engineering,1
 algorithm,3
 network,1
-ë°ì´í„°ë² ì´ìŠ¤,4
+µ¥ÀÌÅÍº£ÀÌ½º,4
 computer-science,2
 dicom,1
 hl7,1
-ì†Œí”„íŠ¸ì›¨ì–´ì—”ì§€ë‹ˆì–´,1
+¼ÒÇÁÆ®¿ş¾î¿£Áö´Ï¾î,1
 csts,1
 fiddler,1
-ì•„í‚¤í…ì³,2
-AB í…ŒìŠ¤íŒ…,1
-ë°ì´í„° ë³´ì¡´ ì •ì±… ìˆ˜ë¦½,1
+¾ÆÅ°ÅØÃÄ,2
+AB Å×½ºÆÃ,1
+µ¥ÀÌÅÍ º¸Á¸ Á¤Ã¥ ¼ö¸³,1
 etl,3
 firmware,2
 servlet,2
-Web ê°œë°œì,1
+Web °³¹ßÀÚ,1
 2checkout,1
 NoSQL/RDBMS,1
 "Cloud: AWS EC2, RDS, CloudWatch",1
 expo,1
 blender,1
-3D ëª¨ë¸ë§,1
+3D ¸ğµ¨¸µ,1
 system-architecture,1
 cdn,1
-ìœ„ì¹˜ê¸°ë°˜ì„œë¹„ìŠ¤,1
-ê²½ë ¥ì§,1
-ì§ë¬´ê²½ë ¥ì„œ,1
-ì‹ ì…ì‚¬ì›,1
-ê²½ë ¥ê°™ì€ì‹ ì…,1
-CI/CD ë° ìë™í™” ê°œë°œ,2
+À§Ä¡±â¹İ¼­ºñ½º,1
+°æ·ÂÁ÷,1
+Á÷¹«°æ·Â¼­,1
+½ÅÀÔ»ç¿ø,1
+°æ·Â°°Àº½ÅÀÔ,1
+CI/CD ¹× ÀÚµ¿È­ °³¹ß,2
 DRF Node.js,1
 augmented-reality,1
 native,2
 server architecture,1
 business-logic,2
 cord review,1
-ê°€ìƒí˜„ì‹¤,1
+°¡»óÇö½Ç,1
 windows-application,2
-íŒì›¨ì–´ê°œë°œ,3
-Firmware ê°œë°œì,1
+Æß¿ş¾î°³¹ß,3
+Firmware °³¹ßÀÚ,1
 Semantic UI,1
 microservices,2
 Microsoft Azure,3
@@ -1219,34 +1219,34 @@ OpenShift,1
 apache-kafka,2
 apache-confluent,1
 apollo-client,1
-ì›¹í¼ë¸”ë¦¬ì…”,1
-ê³µê°„ì •ë³´,2
-ë¶€ë™ì‚°,2
-ë„ì‹œê³„íš,2
+À¥ÆÛºí¸®¼Å,1
+°ø°£Á¤º¸,2
+ºÎµ¿»ê,2
+µµ½Ã°èÈ¹,2
 prisma2,2
 k8s,3
 ionic-framework,2
-ë¸íŒŒì´,1
+µ¨ÆÄÀÌ,1
 Delphi,1
 Win api,1
 OOP,6
-Cì–¸ì–´,1
-ìœˆë„ìš° í”„ë¡œê·¸ë˜ë°,1
-ì†”ë£¨ì…˜ê°œë°œ,1
+C¾ğ¾î,1
+À©µµ¿ì ÇÁ·Î±×·¡¹Ö,1
+¼Ö·ç¼Ç°³¹ß,1
 cross-platform,2
 prisma,1
 "AWS S3, EC2, RDS",1
-í”„ë¡ íŠ¸,3
+ÇÁ·ĞÆ®,3
 grid,1
 FLEX,1
-ë””ìì¸,1
-ë””ìì¸ì‹œìŠ¤í…œ,1
-ë°˜ì‘í˜•ì›¹ë””ìì¸,1
+µğÀÚÀÎ,1
+µğÀÚÀÎ½Ã½ºÅÛ,1
+¹İÀÀÇüÀ¥µğÀÚÀÎ,1
 dagger2,1
 retrofit,1
 Room,1
 Crashlytics,2
-ì˜¤í”ˆì†ŒìŠ¤ ë¼ì´ë¸ŒëŸ¬ë¦¬,2
+¿ÀÇÂ¼Ò½º ¶óÀÌºê·¯¸®,2
 Aws Lambda@Edge,1
 kubeflow,1
 torchserve,1
@@ -1279,8 +1279,8 @@ cs,3
 map,2
 moblie,1
 livecommerce,1
-ë¼ì´ë¸Œ ìŠ¤íŠ¸ë¦¬ë°,1
-ë™ì˜ìƒ ìŠ¤íŠ¸ë¦¬ë°,1
+¶óÀÌºê ½ºÆ®¸®¹Ö,1
+µ¿¿µ»ó ½ºÆ®¸®¹Ö,1
 Vitess(MySql),1
 Data Query,1
 Kops,1
@@ -1299,24 +1299,24 @@ bundler,1
 Visual C++,2
 Qt,5
 query-tuning,1
-ìŠ¤í‚¤ë§ˆ ê´€ë¦¬,1
+½ºÅ°¸¶ °ü¸®,1
 "SQL, NoSQL, Elastic Search",1
 RESTfull,1
 Cloud Orchestration,1
 OCS EMR,2
-ì˜ë£Œ,2
-í—¬ìŠ¤ì¼€ì–´,2
-ë°ì´í„°ë§ˆì´ê·¸ë ˆì´ì…˜,1
-ê¸°ìˆ ì§€ì›,2
+ÀÇ·á,2
+Çï½ºÄÉ¾î,2
+µ¥ÀÌÅÍ¸¶ÀÌ±×·¹ÀÌ¼Ç,1
+±â¼úÁö¿ø,2
 App push,1
 chatbot,2
 Aliyun cloud,2
 IoT Device,3
 Raspberry Pi,2
 C/C++,6
-í•˜ë“œì›¨ì–´,1
+ÇÏµå¿ş¾î,1
 MCU,1
-íšŒë¡œì„¤ê³„,1
+È¸·Î¼³°è,1
 freertos,2
 Arduino,2
 embedded-c,1
@@ -1325,22 +1325,22 @@ thymeleaf,1
 ASP.NET MVC 5,1
 RIBs,2
 Stash,1
-ë³´ì•ˆê¸°íš,1
-ë³´ì•ˆê°œë°œ,1
+º¸¾È±âÈ¹,1
+º¸¾È°³¹ß,1
 Agile Methodologies,1
 Data analysis,5
 Spring MVC,1
-ìŠ¤íƒ€íŠ¸ì—…,1
+½ºÅ¸Æ®¾÷,1
 vault,2
-ìë£Œêµ¬ì¡°,2
-ì»´í“¨í„°êµ¬ì¡°,2
+ÀÚ·á±¸Á¶,2
+ÄÄÇ»ÅÍ±¸Á¶,2
 tendermint,2
 Fabric,2
 rpc,2
 ReinforcementLeaning,1
 reinforcement-learning,1
 Software developement,1
-ê°•í™”í•™ìŠµ,1
+°­È­ÇĞ½À,1
 Visual SLAM,5
 localization,4
 Cosmos SDK,1
@@ -1349,30 +1349,30 @@ MSSQL/MySQL/MS-Win Server,1
 pointcloud data,1
 Pointcloud Library,1
 vr,1
-ì„¼ì„œìœµí•©,1
+¼¾¼­À¶ÇÕ,1
 calibration,1
 lidar,3
 #HTML5,1
 #CSS3,1
-#ì›¹í‘œì¤€,1
-#ì»¨í…ì¸ ê´€ë¦¬,1
+#À¥Ç¥ÁØ,1
+#ÄÁÅÙÃ÷°ü¸®,1
 #php,1
 #MySQL,1
 #AJAX,1
-#ì›¹í”„ë¡œê·¸ë˜ë¨¸,1
+#À¥ÇÁ·Î±×·¡¸Ó,1
 Serverless Architecture,1
 SDK,4
 Android SDK,2
-B2Bí”Œë«í¼,1
-íŒ¨ì…˜,1
+B2BÇÃ·§Æû,1
+ÆĞ¼Ç,1
 Fraud Detection,1
-ì•„ë‘ì´ë…¸,1
+¾ÆµÎÀÌ³ë,1
 XD,1
 Mobile Edge Computing,1
 Network Packet Broker,1
 Data analytics,1
 fulfillment,1
-ê¸°ê³„ê³µí•™,1
+±â°è°øÇĞ,1
 "FEM, 3D",1
 CFD,1
 photoshop,1
@@ -1381,12 +1381,12 @@ YOLO,2
 jupiter,1
 gpu,1
 SW QA,1
-ëª¨ë°”ì¼,2
-ê°œë°œ ìœ ì§€ë³´ìˆ˜,1
-ìœ ì§€ë³´ìˆ˜,2
-ë°±ì˜¤í”¼ìŠ¤,1
-ë¦¬ë²„ìŠ¤ ì—”ì§€ë‹ˆì–´ë§,1
-ë³´ì•ˆì·¨ì•½ì ,1
+¸ğ¹ÙÀÏ,2
+°³¹ß À¯Áöº¸¼ö,1
+À¯Áöº¸¼ö,2
+¹é¿ÀÇÇ½º,1
+¸®¹ö½º ¿£Áö´Ï¾î¸µ,1
+º¸¾ÈÃë¾àÁ¡,1
 Apache Tomcat,1
 Azure Storage,1
 continuous-integration,2
@@ -1400,16 +1400,16 @@ sa,1
 swagger,1
 Lalavel,1
 rtos,2
-ë°ì´í„°ì‚¬ì´ì–¸í‹°ìŠ¤íŠ¸,1
+µ¥ÀÌÅÍ»çÀÌ¾ğÆ¼½ºÆ®,1
 product-management,1
-í”„ë¡œì íŠ¸ ê¸°íš,1
+ÇÁ·ÎÁ§Æ® ±âÈ¹,1
 CTI,1
 grpc,2
-ê°œë°œì–¸ì–´,2
+°³¹ß¾ğ¾î,2
 javaspring,2
-ë°ì´í„°ê´€ë¦¬,1
+µ¥ÀÌÅÍ°ü¸®,1
 sql-query,1
-ë¡œë´‡ ì•Œê³ ë¦¬ì¦˜,1
+·Îº¿ ¾Ë°í¸®Áò,1
 retrofit2,4
 google-guice,1
 Java8,1
@@ -1420,13 +1420,13 @@ tcp-ip,1
 lighttpd,1
 autoscaling,1
 replication,1
-íŒŒì´ì–´ë² ì´ìŠ¤,1
+ÆÄÀÌ¾îº£ÀÌ½º,1
 Entity Framework,1
 webos,1
 dagger-2,1
 Product planning,1
 Agile Product Management,1
-ì„œë¹„ìŠ¤ ê¸°íš,2
+¼­ºñ½º ±âÈ¹,2
 openlayers,1
 cesium,1
 gdal,3
@@ -1458,10 +1458,10 @@ Backbone.js,2
 WebKit,1
 Casandra,1
 cloud,4
-"í”„ë¡ íŠ¸ì—”ë“œ ê°œë°œ(ReactJS, VueJS)",1
+"ÇÁ·ĞÆ®¿£µå °³¹ß(ReactJS, VueJS)",1
 contents,1
 dalvik,1
-ì»´íŒŒì¼ëŸ¬,1
+ÄÄÆÄÀÏ·¯,1
 compiler,1
 llvm,1
 dockerizing,1
@@ -1471,22 +1471,22 @@ KOIN,1
 data-binding,1
 XML,1
 es2016,1
-biì‹œìŠ¤í…œ,1
-ì›¹ì„œë¹„ìŠ¤ë³´ì•ˆ,1
-ì¹´ë©”ë¼ì œì–´,1
-ë„ì»¤,1
-ì¿ ë²„ë„¤í‹°ìŠ¤,1
-ìµœì í™”,2
-ì†”ë£¨ì…˜ê¸°íš,1
-ê³ ê°ì§€ì›,1
-ê³ ê°ê´€ë¦¬,1
-ì‚°ì—…ê¸°ëŠ¥ìš”ì›,2
-ê¸°ìˆ ì»¨ì„¤íŒ…,1
-ì˜¨ë³´ë”©í”„ë¡œê·¸ë¨,1
-ì‚¬ìš©ì/ê´€ë¦¬ì ê°€ì´ë“œ ì‘ì„±,1
+bi½Ã½ºÅÛ,1
+À¥¼­ºñ½ºº¸¾È,1
+Ä«¸Ş¶óÁ¦¾î,1
+µµÄ¿,1
+Äí¹ö³×Æ¼½º,1
+ÃÖÀûÈ­,2
+¼Ö·ç¼Ç±âÈ¹,1
+°í°´Áö¿ø,1
+°í°´°ü¸®,1
+»ê¾÷±â´É¿ä¿ø,2
+±â¼úÄÁ¼³ÆÃ,1
+¿Âº¸µùÇÁ·Î±×·¥,1
+»ç¿ëÀÚ/°ü¸®ÀÚ °¡ÀÌµå ÀÛ¼º,1
 druid,1
 Jasmine,1
-ì‹œê³„ì—´ ë¶„ì„,1
+½Ã°è¿­ ºĞ¼®,1
 ADAS,1
 LiDAR signal processing,2
 Google Cloud Build,2
@@ -1495,30 +1495,30 @@ Vanilla.js,1
 Google Kubernetes Engine,2
 Google Cloud Storage,1
 google memorystore,1
-í™ˆí˜ì´ì§€ìš´ì˜,1
-í™ˆí˜ì´ì§€ê´€ë¦¬,1
-í”ŒëŸ¬í„°,1
-UIë””ìì¸,2
+È¨ÆäÀÌÁö¿î¿µ,1
+È¨ÆäÀÌÁö°ü¸®,1
+ÇÃ·¯ÅÍ,1
+UIµğÀÚÀÎ,2
 Computer Vision Analyst,2
-#PHPê°œë°œì,1
-ì†Œí”„íŠ¸ì›¨ì–´ ì—”ì§€ë‹ˆì–´,1
+#PHP°³¹ßÀÚ,1
+¼ÒÇÁÆ®¿ş¾î ¿£Áö´Ï¾î,1
 functional-programming,2
 speech-recognition,2
-ìŒì„±ì¸ì‹,1
+À½¼ºÀÎ½Ä,1
 Kaldi,1
 Natural Language Processing,1
 theano,1
 spacy,1
 AWS CodeDeploy,1
-ë³‘ì—­íŠ¹ë¡€,2
-ë³‘ì—­ëŒ€ì²´,2
+º´¿ªÆ¯·Ê,2
+º´¿ª´ëÃ¼,2
 database-queries,1
 swift5.0,1
 storyboard,2
 cv,1
-GUIë””ìì¸,1
+GUIµğÀÚÀÎ,1
 hybrid-mobile-app,1
-ì¶”ì²œì‹œìŠ¤í…œ,1
+ÃßÃµ½Ã½ºÅÛ,1
 dsp,2
 sound engineering,1
 fpga,1
@@ -1526,7 +1526,7 @@ Network AsyncTask,1
 Layout Customizing,1
 webview,1
 iPad,1
-ì•„ì´íŒ¨ë“œ,1
+¾ÆÀÌÆĞµå,1
 web crawling,2
 vert X,1
 iam,1
@@ -1541,7 +1541,7 @@ Amazon Route 53,1
 Node.js Express.js,1
 Global Business Development,1
 async,1
-ì›¹ ë°±ì—”ë“œ ê°œë°œ(Java/Spring/MySQL),1
+À¥ ¹é¿£µå °³¹ß(Java/Spring/MySQL),1
 "Java Spring Boot, JPA",1
 JAVA Spring MVC,1
 AWS CloudFormation,1
@@ -1557,16 +1557,16 @@ greenplum,1
 elk-stack,2
 android-library,1
 ios-frameworks,1
-ì‹œìŠ¤í…œí”„ë¡œê·¸ë˜ë¨¸,2
-ì‹œìŠ¤í…œë¶„ì„,1
-ë¹…í…Œì´í„°ë¶„ì„,1
-ì›¹ì„œë¹„ìŠ¤ ê°œë°œ,1
+½Ã½ºÅÛÇÁ·Î±×·¡¸Ó,2
+½Ã½ºÅÛºĞ¼®,1
+ºòÅ×ÀÌÅÍºĞ¼®,1
+À¥¼­ºñ½º °³¹ß,1
 LAPM,1
-ê´‘ê³  í”Œë«í¼,1
-ì•„í‚¤í…ì²˜ ì„¤ê³„,1
+±¤°í ÇÃ·§Æû,1
+¾ÆÅ°ÅØÃ³ ¼³°è,1
 Web Scraping,3
 Beautilul Soup,1
-ê³µê³µë°ì´í„° API,1
+°ø°øµ¥ÀÌÅÍ API,1
 Statistical Data Analysis,1
 realtime detection,1
 instance segmentation,1
@@ -1578,7 +1578,7 @@ ARM,2
 EagleCAD,1
 App design,1
 Java/Kotlin Spring Framework (Spring Boot),2
-ì •ë³´ì²˜ë¦¬ê¸°ì‚¬,1
+Á¤º¸Ã³¸®±â»ç,1
 qc,1
 automated-tests,2
 integration-testing,1
@@ -1586,33 +1586,33 @@ javacript,2
 PyQT,1
 gui,1
 naver cloud platform,1
-ê¸ˆìœµí´ë¼ìš°ë“œ,1
+±İÀ¶Å¬¶ó¿ìµå,1
 ios-autolayout,1
 spring-data-jpa,1
 GWT,1
 SciPy,1
-ECì‚¬ì´íŠ¸,1
-PGì‚¬ ì—°ë™,1
+EC»çÀÌÆ®,1
+PG»ç ¿¬µ¿,1
 Kendo Grid,1
 Recommender Systems,1
-android ì•±ê°œë°œ,1
-Android ì•±,1
+android ¾Û°³¹ß,1
+Android ¾Û,1
 Digital Healthcare Service,1
 android-wear,1
 smartwatch,1
 HTML/CSS,1
 B2C,2
 MVC framework,1
-í”Œë«í¼ ê°œë°œ,1
+ÇÃ·§Æû °³¹ß,1
 dmp,1
 SQL Server,1
 TCP,1
 UDP,1
-ê¸ˆìœµíˆ¬ì,1
-ìì‚°ìš´ìš©,1
-í€ë“œ,1
+±İÀ¶ÅõÀÚ,1
+ÀÚ»ê¿î¿ë,1
+Æİµå,1
 front-office,1
-ê¸ˆìœµit,1
+±İÀ¶it,1
 julia,1
 Graph QL,2
 aws lightsail,2
@@ -1620,19 +1620,19 @@ AWS Route 53,2
 swfit 4.0,1
 WinForms,1
 C# & WPF,1
-ë°ì´í„°ë² ì´ìŠ¤ ê´€ë¦¬,1
+µ¥ÀÌÅÍº£ÀÌ½º °ü¸®,1
 aws-rds,1
-ì–¼êµ´ì¸ì‹,1
+¾ó±¼ÀÎ½Ä,1
 vcs,1
-íŒ¨í„´ì¸ì‹,1
+ÆĞÅÏÀÎ½Ä,1
 software-architecture,1
 Cloud-Server,1
 interactive,1
 Web publisher,1
-UXë””ìì¸,1
-ì†Œí”„íŠ¸ì›¨ì–´ ê°œë°œ (ëª¨ë°”ì¼/ì›¹),1
-ì•±/ì›¹ì„œë¹„ìŠ¤ ê¸°íš,1
-ëª¨ë°”ì¼/ì›¹ë””ìì¸,1
+UXµğÀÚÀÎ,1
+¼ÒÇÁÆ®¿ş¾î °³¹ß (¸ğ¹ÙÀÏ/À¥),1
+¾Û/À¥¼­ºñ½º ±âÈ¹,1
+¸ğ¹ÙÀÏ/À¥µğÀÚÀÎ,1
 echarts,1
 Visual C++ MFC,1
 "RPA, SaaS,",1
@@ -1649,20 +1649,20 @@ software delivery,1
 logstash,1
 office,1
 space,1
-ì• ìì¼,1
+¾ÖÀÚÀÏ,1
 "C++, MFC",1
 azure iot hub,1
 azure sphere,1
 esp,1
-ì˜ì—…,1
-ë¹„ì§€ë‹ˆìŠ¤ë¯¸íŒ…,1
-B2Bì˜ì—…,1
-ê²½ì˜,1
+¿µ¾÷,1
+ºñÁö´Ï½º¹ÌÆÃ,1
+B2B¿µ¾÷,1
+°æ¿µ,1
 xplatform,1
 Cross Platform Application (React/React Native),1
-UX/UIê¸°íš,1
-ì»¨í…ì¸  ê¸°íš,1
-ì»¨í…ì¸ í¸ì§‘,1
-ì»¨í…ì¸ ê´€ë¦¬,1
+UX/UI±âÈ¹,1
+ÄÁÅÙÃ÷ ±âÈ¹,1
+ÄÁÅÙÃ÷ÆíÁı,1
+ÄÁÅÙÃ÷°ü¸®,1
 yii2,1
 yii-framework,1
